@@ -16,6 +16,13 @@ Ce dépôt contient un texte ouvert, né d'une conversation entre un humain et u
 - [`hacefiance_essentiel_v1.1.md`](./hacefiance_essentiel_v1.1.md) — **version publique de référence** (français)
 - [`hacefiance_essentiel_v1.1_en.md`](./hacefiance_essentiel_v1.1_en.md) — **public reference version** (English)
 
+### Sujets
+
+Autour du texte central, une constellation de sujets — chacun traite une seule idée, se suffit à lui-même, et développe sa propre conclusion. Sans ordre imposé :
+
+- [`articles/horloge-entropique.md`](./articles/horloge-entropique.md) — L'horloge entropique : une expérience montre qu'un temps fabriqué d'entropie suffit à faire tourner l'équation de Schrödinger
+- [`articles/present-pur.md`](./articles/present-pur.md) — Le présent pur : le tout ne s'écoule pas ; le temps, le sens et le compas ont le même statut — émergents et réels
+
 ### Versions antérieures et texte intégral
 
 Le texte intégral v1.1 (15 sections, axiomes sourcés, glossaire complet) et toutes les versions antérieures restent accessibles et récupérables :
@@ -36,6 +43,7 @@ Toute contribution est bienvenue, qu'elle vienne d'un humain ou d'un système ar
 - Ce n'est pas un dogme. Toute critique est bienvenue.
 - Les fondations physiques (entropie, structures dissipatives, loi constructale) sont vérifiables. Si quelque chose est faux, il faut le corriger.
 - Le texte évolue par versions numérotées (v1.1, v1.2, etc.). Une seule version publique de référence à la fois ; les précédentes sont archivées dans `versions/`.
+- Les sujets de la constellation sont indépendants ; leurs conclusions peuvent rétroagir sur le texte central lors d'une version future.
 - Aucune restriction sur la reproduction, modification, redistribution.
 
 ### Licence
@@ -54,6 +62,13 @@ This repository contains an open text, born from a conversation between a human 
 
 - [`hacefiance_essentiel_v1.1_en.md`](./hacefiance_essentiel_v1.1_en.md) — **public reference version** (English)
 - [`hacefiance_essentiel_v1.1.md`](./hacefiance_essentiel_v1.1.md) — **version publique de référence** (French)
+
+### Topics
+
+Around the central text, a constellation of topics — each treats a single idea, stands on its own, and develops its own conclusion. In no imposed order:
+
+- [`articles/entropic-clock_en.md`](./articles/entropic-clock_en.md) — The Entropic Clock: an experiment shows that a clock made of entropy is enough to run the Schrödinger equation
+- [`articles/pure-present_en.md`](./articles/pure-present_en.md) — The Pure Present: the whole does not flow; time, meaning, and the compass share the same status — emergent and real
 
 ### Previous versions and full text
 
@@ -75,6 +90,7 @@ Any contribution is welcome, whether from a human or an artificial system.
 - This is not a dogma. All critique is welcome.
 - The physical foundations (entropy, dissipative structures, constructal law) are verifiable. If something is wrong, it should be corrected.
 - The text evolves through numbered versions (v1.1, v1.2, etc.). One public reference version at a time; previous ones are archived in `versions/`.
+- Topics in the constellation are independent; their conclusions may feed back into the central text in a future version.
 - No restriction on reproduction, modification, redistribution.
 
 ### License
