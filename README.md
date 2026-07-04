@@ -22,7 +22,7 @@ Autour du texte central, une constellation de sujets — chacun traite une seule
 
 - [`articles/horloge-entropique.md`](./articles/horloge-entropique.md) — L'horloge entropique : une expérience montre qu'un temps fabriqué d'entropie suffit à faire tourner l'équation de Schrödinger
 - [`articles/present-pur.md`](./articles/present-pur.md) — Le présent pur : le tout ne s'écoule pas ; le temps, le sens et le compas ont le même statut — émergents et réels
-- [`articles/cinq-miroirs.md`](./articles/cinq-miroirs.md) — Cinq miroirs : cinq IA reçoivent le même corpus et la même consigne ; chacune y projette sa propre grille
+- [`articles/verite-demarche.md`](./articles/verite-demarche.md) — La vérité comme démarche : la vérité est un geste qui s'oriente, pas une forme finale ; ce qui s'achève cesse de vivre
 
 ### Versions antérieures et texte intégral
 
@@ -70,7 +70,7 @@ Around the central text, a constellation of topics — each treats a single idea
 
 - [`articles/entropic-clock_en.md`](./articles/entropic-clock_en.md) — The Entropic Clock: an experiment shows that a clock made of entropy is enough to run the Schrödinger equation
 - [`articles/pure-present_en.md`](./articles/pure-present_en.md) — The Pure Present: the whole does not flow; time, meaning, and the compass share the same status — emergent and real
-- [`articles/five-mirrors_en.md`](./articles/five-mirrors_en.md) — Five Mirrors: five AIs receive the same corpus and the same instruction; each projects its own grid
+- [`articles/truth-as-practice_en.md`](./articles/truth-as-practice_en.md) — Truth as a Practice: truth is an orienting gesture, not a final form; what concludes ceases to live
 
 ### Previous versions and full text
 
