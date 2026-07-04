@@ -40,6 +40,16 @@ L'honnêteté fait partie du cadre, alors disons-le sans détour. Cette expérie
 
 Ce qu'on peut affirmer sans tricher : la vision du temps comme relation interne, ordonnée par l'entropie, vient de passer son premier test de laboratoire. Et elle s'emboîte dans le cadre sans forcer — parce que le cadre disait déjà que toute propriété émerge à l'interface entre une partie et son tout.
 
+## Ancrages
+
+- **Wheeler & DeWitt** (équation, 1967) — la fonction d'onde de l'univers entier ne contient pas de variable temps. Point de départ du « problème du temps ».
+- **Page & Wootters**, *Evolution without evolution* (Phys. Rev. D 27, 2885, 1983) — le temps émerge dans un univers stationnaire à partir des corrélations entre une « horloge » et le reste. C'est le mécanisme exact que l'expérience de Birmingham met à l'épreuve.
+- **Connes & Rovelli**, hypothèse du temps thermique (1994) — le temps que nous vivons comme effet de notre description statistique incomplète, donc de l'entropie.
+- **Rovelli**, *L'ordre du temps* (2017) — exposé accessible de l'ensemble de ces idées.
+- **Kwon et al. (Birmingham)**, *Testing the problem of time with cold atoms*, Physical Review Research (2026) — le test de laboratoire discuté ici.
+
+Ce que le sujet retient : la suffisance fonctionnelle d'une horloge entropique. Ce qu'il ne prend pas : l'identification du temps à l'entropie, ni l'extension automatique à l'univers entier.
+
 ---
 
 *Référence : « Testing the problem of time with cold atoms », Physical Review Research (2026), doi.org/10.1103/1h9j-df4k*
