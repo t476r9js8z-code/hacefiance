@@ -38,6 +38,16 @@ L'erreur moderne consiste à dire : la science ne le trouve pas au niveau fondam
 
 On ne peut pas garder le temps et jeter le sens. C'est le même geste qui les fait naître : une partie qui lit le reste.
 
+## Ancrages
+
+- **Wheeler & DeWitt** (1967) — l'univers pris comme un tout est décrit sans variable temps : le point de départ formel du « présent pur ».
+- **Page & Wootters**, *Evolution without evolution* (Phys. Rev. D 27, 2885, 1983) — le titre dit tout : une évolution apparente dans un univers globalement stationnaire. Le cœur mécanique de ce sujet.
+- **Einstein** (lettre à la famille Besso, 1955) — « la distinction entre passé, présent et futur n'est qu'une illusion, si tenace soit-elle » : l'univers-bloc en une phrase.
+- **McTaggart**, *The Unreality of Time* (1908) — le débat philosophique classique séries A / séries B, arrière-plan de la question.
+- **Anderson**, *More is Different* (Science, 1972) — l'émergence comme « réel d'échelle » : le fondement de l'argument température/temps.
+
+Ce que le sujet retient : émergent ≠ illusoire ; le temps et le sens partagent le même statut ontologique. Ce qu'il ne prend pas : l'idée que le tout « vivrait » un présent au sens psychologique — le tout ne vit rien, justement.
+
 ---
 
 *Texte central, sources et glossaire : github.com/t476r9js8z-code/hacefiance*

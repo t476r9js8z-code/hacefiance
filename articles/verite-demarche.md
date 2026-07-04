@@ -46,6 +46,16 @@ Tout se complexifie, tout émerge, tout reste ouvert. Mais la logique — la gra
 
 Je ne sais pas. C'est la seule façon honnête de finir un texte sur la vérité comme démarche : s'arrêter là où l'on ne sait plus.
 
+## Ancrages
+
+- **Héraclite** (VIᵉ s. av. J.-C.) — *panta rhei*, tout coule : la pensée du flux comme fond permanent, avant toute philosophie de la substance.
+- **Heidegger**, *Être et Temps* (1927) — lecture d'*alḗtheia* comme dévoilement plutôt que comme adéquation. On en retient le mot, pas le système.
+- **Peirce** (1877, *The Fixation of Belief*) — la vérité comme limite idéale vers laquelle converge une enquête sans fin : le précédent le plus proche de « direction inatteignable mais orientée ».
+- **Popper** (*Logik der Forschung*, 1934 ; *Conjectures and Refutations*, 1963) — le faillibilisme : la science n'atteint jamais la certitude, elle élimine l'erreur. Une pensée qui ne conclut pas.
+- **Zenil et al.** — critiques de la théorie de l'assemblage (npj Systems Biology, 2024 ; PLOS Complex Systems, 2024), citées ici comme cas d'école de la « tentation de la mesure ».
+
+Ce que le sujet retient : la vérité comme geste orienté, jamais close. Ce qu'il refuse : toute prétention à la forme finale — y compris de la part de l'Hacéfiance elle-même.
+
 ---
 
 *Texte central, sources et glossaire : github.com/t476r9js8z-code/hacefiance*
