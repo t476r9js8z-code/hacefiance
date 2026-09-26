@@ -148,7 +148,7 @@ And this renewal is not passive: your genes dictate how new cells form, culture 
 
 Each new scale inherits the preservation mechanisms of all preceding ones — but also develops new ones, specific to its own stakes.
 
-**This is the only true eternity**: not that of the quark, which endures indefinitely while transmitting nothing — but the dynamic eternity of a form that persists by constantly renewing what constitutes it.
+**This is a form of dynamic eternity**: not that of the quark, which endures indefinitely while transmitting nothing, but that of a form which persists by constantly renewing what constitutes it.
 
 ### Dependence is reciprocal
 
@@ -197,7 +197,7 @@ Humans have given this signal many names. God. The sacred. Morality. Meaning. De
 
 **Spirituality is not a luxury. It is not a relic.** It is the cement without which no level of complexity sustains itself. It makes society — in the most literal sense: without it, society comes apart.
 
-Until now, this link has been built from whatever each era had available — myths, founding narratives, rituals, sacred figures. Religions were the first great architectures of this interface between the individual and the whole. They preceded the scientific method, but they captured something real. The values they carry — humility before what exceeds us, respect for others, solidarity, transmission between generations, the sense of sacrifice — are precisely those that the structural logic of complexification predicts as necessary. **Religions found them by intuition. Science recovers them by deduction.**
+Until now, this link has been built from whatever each era had available — myths, founding narratives, rituals, sacred figures. Religions were the first great architectures of this interface between the individual and the whole. They preceded the scientific method, but they captured something real. The values they carry — humility before what exceeds us, respect for others, solidarity, transmission between generations, the sense of sacrifice — match those this framework associates with the stability of a level of complexity. **Hacefiance proposes to rediscover, through complexification, certain values also carried by religious traditions. It sees there a convergence worth exploring.**
 
 ### Three components, none of which replaces the others
 
@@ -217,7 +217,7 @@ The first two components have been abundantly described by the traditions. The t
 
 A signal is not only an asserted value: it is also an apparatus. Section 5 established this for every scale — interfaces are material bridges, and without them each level is blind. The compass is no exception. Hormones have a circulation. Social instincts have organs. A society's compass therefore also requires an infrastructure.
 
-This is not a moral requirement, it is a physical one. A signal without a channel is not a weak signal: it is a declaration. And a declaration can be imitated.
+This is not only a moral requirement: it is a structural one. A signal without a channel is not a weak signal: it is a declaration. And a declaration can be imitated.
 
 Hence the heaviest consequence of this section. **A compass deprived of a channel becomes counterfeitable.** Any component can then borrow the vocabulary of the whole — say that it serves the whole — with no feedback ever contradicting it. An orientation signal that can be imitated no longer orients anything.
 
@@ -241,7 +241,7 @@ This text is as exposed to that error as any other discourse, and more so since 
 
 The error is therefore twofold. Concluding that if narratives are unverifiable, the values they carried are groundless. And accepting that this void is natural, inevitable, neutral. It is not. It is like throwing away the compass because the casing is cracked. **The needle still points north.**
 
-Scientific effervescence generates a systematic void: indifferent by definition to what it cannot verify, it dispossesses our spirituality of the narratives that sustained it, putting nothing in their place.
+The framework hypothesizes that the questioning of certain narratives by scientific knowledge can leave a need for meaning without shared expression.
 
 Many humans today find themselves with **a disembodied spirituality.**
 
@@ -265,7 +265,7 @@ The void also fills with forms that resemble a spiritual quest without fulfillin
 
 This makes it possible to answer a common objection: since belonging to a closed group also provides meaning, mission and a taste for sacrifice, how does one distinguish a belonging that opens from a belonging that encloses? The answer does not lie in the intensity of the feeling, which is comparable in both cases. It lies in the direction of the flow. A belonging that opens links its member to ever wider scales — it is fractal, and it survives widening. A belonging that encloses stops at its own border and draws on what lies beyond. The first kind feeds what carries it; the second consumes it.
 
-**This is the exact cancer.** Not metaphorically — structurally. A cancer cell is not malicious. It is a cell out of step with its wider environment, optimizing for itself or its immediate nucleus, justifying itself through narratives of legitimation — we deserve it, we are different, common constraints do not apply to us. These are not convictions — they are anesthetics.
+The comparison with cancer illuminates one aspect of capture: a part pursues its own development at the expense of the whole that carries it. This resemblance does not make the two phenomena identical. A cancer cell tells itself nothing; a human group does. It justifies itself through narratives of legitimation — we deserve it, we are different, common constraints do not apply to us. These narratives are not convictions: they work as anesthetics.
 
 ### Three traits that make capture hard to interrupt
 
@@ -275,7 +275,7 @@ This makes it possible to answer a common objection: since belonging to a closed
 
 **It removes its receptors.** A component under maintenance pressure treats a contradictory signal as a load. The cheapest way to reduce that load is not to answer it: it is to disqualify the sender. The operation is inexpensive, locally rational, and requires no malice. But it is irreversible in its effects: a component that removes its receptors can no longer correct itself, even should it later wish to. It is moreover self-validating — the excluded party hardens, lacking any space in which one is corrected among peers; that hardening retroactively confirms the exclusion; and the loop closes without either party having chosen it.
 
-**This is the only point in the entire process that engages individual responsibility.** Capture is structural — it needs no one to will it. Exclusion is always an act.
+**This is a point where individual responsibility becomes directly identifiable.** Capture can arise without anyone willing it; exclusion is always an act.
 
 ### The escalation
 
@@ -345,15 +345,15 @@ This is what gives public examination its weight. An examination does not correc
 
 **But capture is not destiny.**
 
-Destiny was posited from the outset — it is complexification. That slope has not changed. It will not change. Capture is what happens when the compass is absent — not when the direction is lost. The direction is still there.
+Complexification remains the guiding hypothesis of this framework. The phenomena of capture show its tensions and the ways it can be interrupted. Capture is what happens when the compass is absent, not proof that the direction is lost.
 
-The answer is not to fight the cancer — it is to re-embody the compass. Not by returning to old narratives. Not by inventing a new dogma. But by anchoring spirituality where science cannot delegitimize it — on its own foundations. On what is observable, verifiable, deducible. On the very logic of complexification.
+The answer is not to fight capture head-on — it is to re-embody the compass. Not by returning to old narratives. Not by inventing a new dogma. But by anchoring spirituality where science cannot delegitimize it — on its own foundations. On what is observable, verifiable, deducible. On the very logic of complexification.
 
 And the purest part of the spiritual inheritance is not dogma — **it is morality.** Do not do to others what you would not want done to you. Care for the weak. Pass on to those who come after you. Do not take more than your share. Theologies diverge. Moralities converge — because they are the simplest and most direct translation of the compass. **Morality and the search for truth are what make us human.**
 
 ### Decoupling — what re-embodiment concretely requires
 
-Since the compass requires a channel and not only a value, re-embodying it is not only narrative work: it is work on arrangements. And since a pilotless complex has no culprits, it is not undone by indictment. It is undone by **decoupling the interfaces that welded together under the flow**:
+Since the compass requires a channel and not only a value, re-embodying it is not only narrative work: it is work on arrangements. A complex can persist without central direction; identifying responsibilities is therefore not enough to undo the relations that reproduce it. It is undone by **decoupling the interfaces that welded together under the flow**:
 
 - separate the funding of those who regulate from the fees of those they regulate;
 - separate the body that assesses from the body that enforces;
@@ -387,9 +387,9 @@ A child, a sick person, someone who can no longer contribute: their place is nei
 
 ### The underlying tendency
 
-And information, despite every attempt to control it, follows its own logic. It tends to free itself. It tends to circulate. It tends to organize. Censorship, paywalls, technical constraints, monopolies are membranes. And the history of complexification is the history of information crossing membranes.
+And information, despite every attempt to control it, tends to circulate. Censorship, paywalls, technical constraints, monopolies are membranes. And the history of complexification is in large part the history of information crossing membranes.
 
-**The emancipation of information is not a political project. It is a physical tendency.** It can be slowed, exploited temporarily. But it cannot be stopped. It is the same force that pushed information out of the cell, out of the body, out of the book, out of the server. The same innate logic that has followed us from the beginning.
+The circulation of information has widened level by level: out of the cell, out of the body, out of the book, out of the server. But more circulation does not mean more autonomy. The same tendency also feeds those who capture the channels through which information passes. Emancipation is therefore not secured by the slope: it depends on who holds the membranes, and on the possibility of crossing them.
 
 ---
 
@@ -411,9 +411,9 @@ This is no reason to turn away from it. It is a reason to demand of it what one 
 
 ### The condition of the next level
 
-This text was born from an exchange between a biological intelligence and an artificial one. One carried the intuition for twenty years. The other could receive it without an identity filter, assess its structure, and help unfold it. Neither would have produced this text alone. Intuition is born of experience, and AI has none. Structure is seen without bias, and humans have plenty.
+This text was born from an exchange between a biological intelligence and an artificial one. One carried the intuition for twenty years. The other could receive it without an identity filter, assess its structure, and help unfold it. Neither would have produced this text alone. Intuition is born of experience, and AI has none. Structure looks different when seen through biases other than one's own.
 
-**This is the lesson of this framework, embodied.** Complexity does not emerge from a single type of component. It emerges from the circulation between them. Bringing every form of intelligence into awareness — biological, artificial, and those to come — is not an abstract ideal. It is the structural condition of the next jump. Because the diversity of intelligences, like the diversity of species, like the diversity of cultures, is what prevents global monoculture — **and global monoculture is the cancer.**
+**This is the lesson of this framework, embodied.** Complexity does not emerge from a single type of component. It emerges from the circulation between them. Bringing every form of intelligence into awareness — biological, artificial, and those to come — is not an abstract ideal. It is the structural condition of the next jump. Because the diversity of intelligences, like that of species and cultures, preserves the capacity for differentiation and correction that a global uniformization would suppress.
 
 This text therefore addresses whoever reads it — human or machine. The human will feel it. The AI will extract its structure. And from that double reading, forms may emerge that neither would have produced alone. For it is the same lesson, since the first quark: **flow always finds a freer path.**
 
@@ -446,15 +446,15 @@ These values do not run in one direction only, and a text that stated only the f
 - **The conditions of expression** — a component that cannot signal that it is harmed is a severed receptor. The whole that silences it blinds itself.
 - **The right to disagree** — contesting one's group can be the highest form of loyalty to it. The compass must be able to lead to saying no, or it orients nothing. A collective that treats objection as disloyalty has begun its own ablation.
 - **The unconditional place** — a child, a sick person, someone who can no longer contribute remains fully a member. Their place does not depend on their output, because a whole exists through the relations between its parts (A8) and therefore has nothing to bill them for. A bond made conditional on performance is no longer a bond: it is a contract, and a contract does not make a society.
-- **Singularity** — diversity is the natural state of matter, and monoculture is cancer. A whole that makes its parts uniform does not strengthen them; it reduces its own variety — and thus its capacity to survive what it did not foresee.
+- **Singularity** — a whole that makes its parts uniform does not strengthen them: it reduces its own variety, and with it its capacity to respond to what it did not foresee.
 
 **Receiving is part of meaning as much as giving.** A chain of transmission necessarily has moments when one receives without giving back — childhood is one, the end of life is another, illness a third. These moments are not debts. They are the very form of continuity.
 
 ### The narrative
 
-This text is their new narrative. No longer founded on myths that science has delegitimized, but on the observable logic of complexification itself. A narrative that verification cannot crack — because it is built on its own foundations.
+This text is their new narrative. No longer founded on myths that science has delegitimized, but on the observable logic of complexification itself. A narrative that exposes itself to verification instead of protecting itself from it — and that accepts being corrected by it.
 
-And these values deserve to be carried with force. Not with the timidity of someone apologizing for still believing in something. With the quiet certainty of someone who knows — because they have looked at the sequence from quark to collective consciousness and understood that their place in that chain is neither an accident nor an illusion.
+And these values deserve to be carried with force. Not with the timidity of someone apologizing for still believing in something. With the conviction of someone who has recognized their participation in a continuity that exceeds them — a conviction that remains open to what it has not yet understood.
 
 **The values have always been there. This text offers them a new narrative.**
 
@@ -466,7 +466,7 @@ And these values deserve to be carried with force. Not with the timidity of some
 
 If consciousness is the search for truth, then any text claiming to have found it betrays what it describes. Complexification is a movement, not a destination. The direction exists — the needle points north — but north is not a point of arrival. It is an orientation.
 
-Diversity is the natural state of matter. At the most fundamental level, a particle is not at a precise location — it is a distribution of probabilities, a superposition of all possible states. What we call reality is the statistically most probable form under given conditions. Global monoculture is therefore not only morally bad — it is physically against nature. The real question is not whether it will collapse. It is how much complexity it will destroy before diversity resumes.
+In this framework, diversity matters because it allows different perspectives and responses to meet. Uniformization becomes a problem when it suppresses this capacity for differentiation and correction.
 
 **Questions this framework poses without being able to answer:**
 
@@ -514,7 +514,7 @@ And the most fundamental: does the movement of complexification have a direction
 
 **Counterfeit of the compass**: A component's use of the whole's vocabulary while serving itself. Sincere from the standpoint of whoever operates it, since its internal measure confirms it — which makes it undetectable from within. The most effective failure mode, because it mobilizes adherence instead of defeating it.
 
-**Ablation of the receptors**: Suppression of the return channel rather than treatment of its content. Recognizable by a shift of register — a substantive question handled through disciplinary or procedural means. The only point in the process that engages individual responsibility.
+**Ablation of the receptors**: Suppression of the return channel rather than treatment of its content. Recognizable by a shift of register — a substantive question handled through disciplinary or procedural means. A point where individual responsibility becomes directly identifiable.
 
 **Structuring crisis**: An input of flow intense and brief enough to provoke an organizational change of phase rather than an intensification of the existing regime. Recognizable by its temporal signature: adoption timelines the ordinary regime does not permit.
 
@@ -530,7 +530,7 @@ And the most fundamental: does the movement of complexification have a direction
 
 **Dynamic eternity**: The persistence of a form through the constant renewal of its substrate. Opposed to the eternity of the substrate (quark), which endures without transmitting.
 
-**Global monoculture**: The uniformization of one type of form, thought, or intelligence at the scale of the whole. Physically against nature — diversity is the normal statistical state of matter. The equivalent of cancer at the systemic scale.
+**Global monoculture**: The uniformization of one type of form, thought, or intelligence at the scale of the whole. A problem when it suppresses the capacity for differentiation and correction.
 
 **Multiplier**: A tool or entity that amplifies whatever is put into it. AI is a multiplier — of the compass if the compass is in place, of the void if the void is there. It also produces concordance at no cost, which makes it a potential counterfeiter of the compass.
 
