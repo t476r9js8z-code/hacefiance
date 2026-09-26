@@ -18,9 +18,9 @@ La seconde question est plus profonde : le paramètre temps lui-même — le pet
 
 ## L'expérience
 
-En juin 2026, une équipe de l'Université de Birmingham a publié dans *Physical Review Research* un test de laboratoire de cette idée (« Testing the problem of time with cold atoms »). Le dispositif : quelque 24 000 atomes de rubidium refroidis en condensat de Bose-Einstein — un « mini-univers » quantique bien isolé — séparé par une fine barrière optique en deux secteurs, l'un observé, l'autre non. Aucune horloge extérieure.
+En juin 2026, Giovanni Barontini, physicien à l'Université de Birmingham, a publié dans *Physical Review Research* un test de laboratoire de cette idée (« Testing the problem of time with cold atoms »). Le dispositif : quelque 24 000 atomes de rubidium refroidis en condensat de Bose-Einstein — un « mini-univers » quantique bien isolé — séparé par une fine barrière optique en deux secteurs, l'un observé, l'autre non. Aucune horloge extérieure.
 
-Les chercheurs ont construit un temps entropique : un paramètre défini uniquement à partir de l'entropie interne du système. Premier résultat : ce temps ordonne de façon robuste les événements du secteur observé, à travers des cycles répétés d'expansion et de recontraction. Second résultat, le plus fort : en mettant ce temps entropique à la place du *t* dans l'équation de Schrödinger, on obtient une équation effective qui reproduit l'évolution mesurée. La dynamique quantique ordinaire fonctionne avec un temps qui n'est pas un décor extérieur — un temps fabriqué de l'intérieur, avec de l'entropie.
+Il a construit un temps entropique : un paramètre défini uniquement à partir de l'entropie interne du système. Premier résultat : ce temps ordonne de façon robuste les événements du secteur observé, à travers des cycles répétés d'expansion et de recontraction. Second résultat, le plus fort : en mettant ce temps entropique à la place du *t* dans l'équation de Schrödinger, on obtient une équation effective qui reproduit l'évolution mesurée. La dynamique quantique ordinaire fonctionne avec un temps qui n'est pas un décor extérieur — un temps fabriqué de l'intérieur, avec de l'entropie.
 
 ## Le détail qui compte : la partition
 
@@ -46,7 +46,7 @@ Ce qu'on peut affirmer sans tricher : la vision du temps comme relation interne,
 - **Page & Wootters**, *Evolution without evolution* (Phys. Rev. D 27, 2885, 1983) — le temps émerge dans un univers stationnaire à partir des corrélations entre une « horloge » et le reste. C'est le mécanisme exact que l'expérience de Birmingham met à l'épreuve.
 - **Connes & Rovelli**, hypothèse du temps thermique (1994) — le temps que nous vivons comme effet de notre description statistique incomplète, donc de l'entropie.
 - **Rovelli**, *L'ordre du temps* (2017) — exposé accessible de l'ensemble de ces idées.
-- **Kwon et al. (Birmingham)**, *Testing the problem of time with cold atoms*, Physical Review Research (2026) — le test de laboratoire discuté ici.
+- **Barontini (Université de Birmingham)**, *Testing the problem of time with cold atoms*, Physical Review Research 8, L022047 (2026) — le test de laboratoire discuté ici.
 
 Ce que le sujet retient : la suffisance fonctionnelle d'une horloge entropique. Ce qu'il ne prend pas : l'identification du temps à l'entropie, ni l'extension automatique à l'univers entier.
 

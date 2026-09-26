@@ -18,9 +18,9 @@ The second question runs deeper: is the time parameter itself — the little *t*
 
 ## The experiment
 
-In June 2026, a team at the University of Birmingham published in *Physical Review Research* a laboratory test of this idea ("Testing the problem of time with cold atoms"). The setup: some 24,000 rubidium atoms cooled into a Bose-Einstein condensate — a well-isolated quantum "mini-universe" — split by a thin optical barrier into two sectors, one observed, one not. No external clock.
+In June 2026, Giovanni Barontini, a physicist at the University of Birmingham, published in *Physical Review Research* a laboratory test of this idea ("Testing the problem of time with cold atoms"). The setup: some 24,000 rubidium atoms cooled into a Bose-Einstein condensate — a well-isolated quantum "mini-universe" — split by a thin optical barrier into two sectors, one observed, one not. No external clock.
 
-The researchers built an entropic time: a parameter defined solely from the system's internal entropy. First result: this time robustly orders the events of the observed sector, across repeated cycles of expansion and recollapse. Second result, the stronger one: putting this entropic time in place of the *t* in the Schrödinger equation yields an effective equation that reproduces the measured evolution. Ordinary quantum dynamics works with a time that is not an external backdrop — a time manufactured from within, out of entropy.
+He built an entropic time: a parameter defined solely from the system's internal entropy. First result: this time robustly orders the events of the observed sector, across repeated cycles of expansion and recollapse. Second result, the stronger one: putting this entropic time in place of the *t* in the Schrödinger equation yields an effective equation that reproduces the measured evolution. Ordinary quantum dynamics works with a time that is not an external backdrop — a time manufactured from within, out of entropy.
 
 ## The detail that matters: the partition
 
@@ -46,7 +46,7 @@ What can be stated without cheating: the vision of time as an internal relation,
 - **Page & Wootters**, *Evolution without evolution* (Phys. Rev. D 27, 2885, 1983) — time emerges in a stationary universe from correlations between a "clock" and the rest. This is the exact mechanism the Birmingham experiment puts to the test.
 - **Connes & Rovelli**, thermal time hypothesis (1994) — the time we experience as an effect of our incomplete statistical description, hence of entropy.
 - **Rovelli**, *The Order of Time* (2017) — an accessible account of all these ideas.
-- **Kwon et al. (Birmingham)**, *Testing the problem of time with cold atoms*, Physical Review Research (2026) — the laboratory test discussed here.
+- **Barontini (University of Birmingham)**, *Testing the problem of time with cold atoms*, Physical Review Research 8, L022047 (2026) — the laboratory test discussed here.
 
 What the topic keeps: the functional sufficiency of an entropic clock. What it does not take: the identification of time with entropy, nor the automatic extension to the whole universe.
 

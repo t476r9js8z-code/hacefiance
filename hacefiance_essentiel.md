@@ -2,13 +2,15 @@
 
 *Une philosophie émergente de la complexité organisationnelle. Version condensée du texte intégral, disponible sur GitHub et Substack. Licence CC0.*
 
+**L'hacéfiance est la conscience vécue de notre participation à une émergence collective : la perception que nos relations font exister un ensemble qui, en retour, nous constitue.**
+
 ---
 
 ## 1. L'anomalie
 
 L'univers tend vers le désordre. C'est la deuxième loi de la thermodynamique : sur le temps cosmique, tout s'éparpille, se dilue, se refroidit.
 
-Et pourtant, localement, l'ordre apparaît. Loin de l'équilibre, des structures se forment spontanément — elles maintiennent leur organisation en consommant de l'énergie et en exportant du désordre autour d'elles (Prigogine). Mieux : tout système traversé par un flux génère des formes qui facilitent ce flux — rivières, poumons, éclairs, le même motif à chaque échelle (Bejan). Et la matière tend naturellement à se restructurer pour dissiper l'énergie plus efficacement (England).
+Et pourtant, localement, l'ordre apparaît. Loin de l'équilibre, des structures se forment spontanément — elles maintiennent leur organisation en consommant de l'énergie et en exportant du désordre autour d'elles (Prigogine). Mieux : tout système traversé par un flux génère des formes qui facilitent ce flux — rivières, poumons, éclairs, le même motif à chaque échelle (Bejan). Et la thermodynamique fixe des bornes à ce que coûte l'autoréplication, ce qui suggère — sans le démontrer en général — que les structures capables de mieux dissiper peuvent être favorisées (England).
 
 Ce que le flux fait lentement, il le fait aussi vite : un apport intense et bref précipite la formation de structures au lieu de les laisser sédimenter — et c'est exactement ce qu'est une crise.
 
@@ -24,11 +26,13 @@ Chaque palier est de l'information organisée. Chaque forme s'associe à d'autre
 
 L'emboîtement décrit le rapport entre échelles. À l'intérieur d'une seule, un autre accident est possible : l'**inversion**, quand l'autorité se sépare de la compétence et que la couche la moins informée acquiert le droit de trancher pour la plus informée. Un régulateur doit posséder au moins la variété de ce qu'il régule (Ashby) ; en deçà, il ne régule pas, il réduit le régulé à ce qu'il sait traiter.
 
+La dépendance, elle, va dans les deux sens. Une forme ne persiste qu'en renouvelant ses composants : elle dépend d'eux autant qu'ils dépendent d'elle. Et un palier se constitue dans les relations entre ses composants, souvent avant qu'aucun ne sache le nommer : l'appartenance est constitutive, ni méritée ni accordée.
+
 L'univers ne « veut » pas la complexité. Mais ses lois créent une pente où, dans les zones de calme énergétique, la complexité est l'issue la plus probable.
 
 ## 3. Le tournant
 
-Pendant des milliards d'années, l'information reste captive : l'ADN d'une bactérie est une bibliothèque prodigieuse, mais elle ne quitte jamais sa cellule.
+Pendant des milliards d'années, l'information circule peu : l'ADN d'une bactérie est une bibliothèque prodigieuse, et les bactéries s'échangent déjà des gènes, mais cette circulation reste lente, aveugle, et limitée à ce qui peut s'inscrire dans une molécule.
 
 Puis des organismes développent des sens, puis des langages. L'information franchit la frontière du corps. Elle circule entre les substrats. Et de cette circulation émergent des sociétés, des techniques, des idées — de l'information qui ne décrit plus seulement le monde, mais le transforme.
 
@@ -47,7 +51,9 @@ Une troisième dynamique existe, mais son statut diffère : la **captation**, o�
 
 Toutes les civilisations ont perçu la tension entre les deux forces, et toutes l'ont nommée de la même façon — le temporel et le spirituel. Cette universalité n'est pas un hasard : c'est l'intuition d'une nécessité structurelle. La spiritualité n'est ni un luxe ni un vestige. C'est le mécanisme par lequel un composant ressent sa dépendance au tout — le ciment sans lequel aucun palier de complexité ne tient.
 
-Mais un signal n'est pas une valeur : c'est un dispositif. Il exige un canal et des récepteurs — une voie par laquelle une partie lésée peut se faire entendre du tout, et une instance de recours extérieure à celui qui décide. Les hormones ont une circulation ; les instincts sociaux ont des organes. Un compas privé d'infrastructure ne s'affaiblit pas seulement : il devient imitable. Et un signal d'orientation qu'on peut contrefaire n'oriente plus rien.
+Le compas a trois composantes, et aucune ne remplace les autres : le **signal ressenti** — l'expérience d'appartenir à ce qui nous dépasse ; sa **traduction morale** — ne pas prendre plus que sa part, prendre soin des faibles, transmettre ; et le **canal de retour** — une voie par laquelle une partie lésée peut se faire entendre du tout, et une instance de recours extérieure à celui qui décide. Sans le ressenti, il ne reste qu'une règle. Sans le canal, une morale ne se corrige jamais.
+
+Le canal est la partie oubliée. Un signal n'est pas seulement une valeur : c'est aussi un dispositif. Les hormones ont une circulation ; les instincts sociaux ont des organes. Un compas privé de canal ne s'affaiblit pas seulement : il devient imitable. Et un signal d'orientation qu'on peut contrefaire n'oriente plus rien.
 
 ## 5. Science et spiritualité
 
@@ -61,7 +67,7 @@ Science et spiritualité ne sont pas contradictoires : l'une demande *comment*, 
 
 Quand un composant cesse de recevoir les signaux du tout, il ne se contente pas de l'ignorer. Il doit continuer de se maintenir, et il prélève sur lui. La cellule qui n'entend plus l'organisme ne se contente pas de se diviser : elle recrute une vascularisation. Le dérèglement n'est pas une surdité, c'est une activité.
 
-Le mécanisme est identique à toutes les échelles humaines : l'individu, le groupe, l'organisation qui se déconnectent du tissu qui les porte finissent par le consommer — et, au final, eux-mêmes.
+Le mécanisme est identique à toutes les échelles humaines : l'individu, le groupe, l'organisation qui se déconnectent du tissu qui les porte finissent par le consommer — et, au final, eux-mêmes. Et la captation existe dans les deux sens : un tout peut aussi prélever sur ses parties, les user plus vite qu'il ne les soutient, conditionner l'appartenance au rendement. L'issue est la même.
 
 Deux traits le rendent difficile à interrompre.
 
@@ -87,11 +93,15 @@ Physiquement, elle obéit aux mêmes lois que tout le reste : elle consomme de l
 
 Humilité, empathie, solidarité, transmission, responsabilité. Ce ne sont pas des conventions fragiles : ce sont les conditions structurelles de survie de toute échelle de complexité. Les religions les ont trouvées par intuition. La logique de la complexification les retrouve par déduction.
 
+Mais ces valeurs ne vont pas dans un seul sens. Le tout doit aussi à ses parties : les conditions d'existence, les conditions d'expression, le droit au désaccord, la singularité — et une place inconditionnelle. Un enfant, une personne malade, quelqu'un qui ne peut plus contribuer reste pleinement membre ; sa place n'est ni un coût, ni une charité, ni un solde. C'est pourquoi toute mesure de contribution s'applique à des organes, des appareils, des institutions — jamais à des personnes. Recevoir fait partie du sens autant que donner.
+
 Les valeurs sont toujours là. Ce texte leur offre un nouveau récit.
 
 ## 9. Questions ouvertes
 
 Ce texte se termine par des questions — intentionnellement, car la complexification est un mouvement, pas une destination.
+
+Nos appartenances ne s'emboîtent pas proprement — famille, métier, communauté, nation, humanité se recoupent et se contredisent. Quand deux appartenances légitimes exigent l'inverse l'une de l'autre, laquelle le compas désigne-t-il ?
 
 Si la conscience se découple un jour de son substrat biologique, gardera-t-elle les mêmes valeurs — ou développera-t-elle les siennes ?
 

@@ -2,13 +2,15 @@
 
 *An emergent philosophy of organizational complexity. Condensed version of the full text, available on GitHub and Substack. CC0 license.*
 
+**Hacefiance is the lived awareness of our participation in a collective emergence: the perception that our relations bring into being a whole which, in return, constitutes us.**
+
 ---
 
 ## 1. The Anomaly
 
 The universe tends toward disorder. This is the second law of thermodynamics: on the cosmic timescale, everything scatters, dilutes, and cools.
 
-And yet, locally, order appears. Far from equilibrium, structures form spontaneously — maintaining their organization by consuming energy and exporting disorder around them (Prigogine). Better still: any system traversed by a flow generates forms that facilitate that flow — rivers, lungs, lightning, the same pattern at every scale (Bejan). And matter naturally tends to restructure itself to dissipate energy more efficiently (England).
+And yet, locally, order appears. Far from equilibrium, structures form spontaneously — maintaining their organization by consuming energy and exporting disorder around them (Prigogine). Better still: any system traversed by a flow generates forms that facilitate that flow — rivers, lungs, lightning, the same pattern at every scale (Bejan). And thermodynamics sets bounds on what self-replication costs, which suggests — without proving it in general — that structures able to dissipate better may be favored (England).
 
 What the flow does slowly, it also does fast: an intense, brief input precipitates the formation of structures instead of letting them sediment — and that is exactly what a crisis is.
 
@@ -24,11 +26,13 @@ Each level is organized information. Each form joins with others to create a new
 
 Nesting describes the relation between scales. Within a single one, another accident is possible: **inversion**, when authority separates from competence and the less informed layer acquires the right to rule for the more informed one. A regulator must possess at least the variety of what it regulates (Ashby); below that, it does not regulate — it reduces the regulated to whatever it knows how to process.
 
+Dependence, for its part, runs both ways. A form persists only by renewing its components: it depends on them as much as they depend on it. And a level constitutes itself in the relations between its components, often before any of them can name it: belonging is constitutive, neither earned nor granted.
+
 The universe does not "want" complexity. But its laws create a slope where, in zones of energetic calm, complexity is the most probable outcome.
 
 ## 3. The Turning Point
 
-For billions of years, information remains captive: a bacterium's DNA is a prodigious library, but it never leaves its cell.
+For billions of years, information circulates little: a bacterium's DNA is a prodigious library, and bacteria already exchange genes, but this circulation remains slow, blind, and limited to what can be inscribed in a molecule.
 
 Then organisms develop senses, then languages. Information crosses the boundary of the body. It circulates between substrates. And from this circulation emerge societies, techniques, ideas — information that no longer merely describes the world, but transforms it.
 
@@ -47,7 +51,9 @@ A third dynamic exists, but its status differs: **capture**, in which a componen
 
 Every civilization has perceived the tension between the two forces, and every one has named it the same way — the temporal and the spiritual. This universality is no accident: it is the intuition of a structural necessity. Spirituality is neither a luxury nor a relic. It is the mechanism by which a component feels its dependence on the whole — the cement without which no level of complexity holds.
 
-But a signal is not a value: it is an apparatus. It requires a channel and receptors — a path by which an injured part can make itself heard by the whole, and a body of appeal external to whoever decides. Hormones have a circulation; social instincts have organs. A compass deprived of infrastructure does not merely weaken: it becomes imitable. And an orientation signal that can be counterfeited no longer orients anything.
+The compass has three components, and none replaces the others: the **felt signal** — the experience of belonging to what exceeds us; its **moral translation** — not taking more than one's share, caring for the weak, transmitting; and the **return channel** — a path by which an injured part can make itself heard by the whole, and a body of appeal external to whoever decides. Without the felt signal, only a rule remains. Without the channel, a morality never corrects itself.
+
+The channel is the forgotten part. A signal is not only a value: it is also an apparatus. Hormones have a circulation; social instincts have organs. A compass deprived of a channel does not merely weaken: it becomes imitable. And an orientation signal that can be counterfeited no longer orients anything.
 
 ## 5. Science and Spirituality
 
@@ -61,7 +67,7 @@ Science and spirituality are not contradictory: one asks *how*, the other asks *
 
 When a component stops receiving signals from the whole, it does not merely ignore it. It must keep sustaining itself, and it draws on the whole to do so. The cell that no longer hears the organism does not merely divide: it recruits a blood supply. Decoupling is not deafness; it is an activity.
 
-The mechanism is identical at every human scale: the individual, the group, the organization that disconnect from the fabric that carries them end up consuming it — and, ultimately, themselves.
+The mechanism is identical at every human scale: the individual, the group, the organization that disconnect from the fabric that carries them end up consuming it — and, ultimately, themselves. And capture runs in both directions: a whole can also draw on its parts, wear them out faster than it supports them, make belonging conditional on output. The outcome is the same.
 
 Two traits make it hard to interrupt.
 
@@ -87,11 +93,15 @@ Physically, it obeys the same laws as everything else: it consumes energy, dissi
 
 Humility, empathy, solidarity, transmission, responsibility. These are not fragile conventions: they are the structural conditions of survival for every scale of complexity. Religions found them by intuition. The logic of complexification recovers them by deduction.
 
+But these values do not run in one direction only. The whole also owes its parts: the conditions of existence, the conditions of expression, the right to disagree, singularity — and an unconditional place. A child, a sick person, someone who can no longer contribute remains fully a member; their place is neither a cost, nor a charity, nor a balance. This is why any measure of contribution applies to organs, apparatuses, institutions — never to persons. Receiving is part of meaning as much as giving.
+
 The values have always been there. This text offers them a new narrative.
 
 ## 9. Open Questions
 
 This text ends with questions — intentionally, because complexification is a movement, not a destination.
+
+Our belongings do not nest neatly — family, trade, community, nation, humanity overlap and contradict one another. When two legitimate belongings demand opposite things, which one does the compass designate?
 
 If consciousness one day decouples from its biological substrate, will it keep the same values — or develop its own?
 
