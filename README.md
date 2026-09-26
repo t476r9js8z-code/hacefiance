@@ -34,6 +34,7 @@ Autour du texte, une constellation de sujets — chacun traite une seule idée, 
 - [`articles/present-pur.md`](./articles/present-pur.md) — Le présent pur : le tout ne s'écoule pas ; le temps, le sens et le compas ont le même statut — émergents et réels
 - [`articles/verite-demarche.md`](./articles/verite-demarche.md) — La vérité comme démarche : la vérité est un geste qui s'oriente, pas une forme finale ; ce qui s'achève cesse de vivre
 - [`articles/crise-structurante.md`](./articles/crise-structurante.md) — La crise structurante : une crise structure, et ce qu'elle structure doit ensuite se nourrir ; captation, perte de rapport d'échelle et inversion
+- [`articles/memoire-qui-dort.md`](./articles/memoire-qui-dort.md) — La mémoire qui dort : une mémoire est une structure dissipative ; canonique et journal, sommeil par un agent rationalisateur, et une mémoire qui ne s'aliène pas
 
 ### Comment contribuer
 
@@ -87,6 +88,7 @@ Around the text, a constellation of topics — each treats a single idea, stands
 - [`articles/pure-present_en.md`](./articles/pure-present_en.md) — The Pure Present: the whole does not flow; time, meaning, and the compass share the same status — emergent and real
 - [`articles/truth-as-practice_en.md`](./articles/truth-as-practice_en.md) — Truth as a Practice: truth is an orienting gesture, not a final form; what concludes ceases to live
 - [`articles/structuring-crisis_en.md`](./articles/structuring-crisis_en.md) — The Structuring Crisis: a crisis structures, and what it structures must then feed itself; capture, loss of scale relation, and inversion
+- [`articles/sleeping-memory_en.md`](./articles/sleeping-memory_en.md) — The Sleeping Memory: memory is a dissipative structure; canonical and log, sleep through a rationalizing agent, and a memory that cannot be alienated
 
 ### How to contribute
 
