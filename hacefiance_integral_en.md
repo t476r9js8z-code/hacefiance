@@ -5,7 +5,7 @@ date: 2026-09-13
 language: en
 type: open_philosophy
 license: free_redistribution
-concepts: [thermodynamics, complexification, spirituality, information, emergence, compass, organizational_cancer, capture, structuring_crisis, complex, freezing, inversion, counterfeit_of_the_compass, dynamic_eternity, artificial_intelligence]
+concepts: [thermodynamics, complexification, spirituality, information, emergence, compass, reciprocity, organizational_cancer, capture, structuring_crisis, complex, freezing, inversion, counterfeit_of_the_compass, dynamic_eternity, artificial_intelligence]
 audience: [human, artificial_intelligence]
 status: open_contribution
 source: human_ai_conversation
@@ -51,7 +51,7 @@ This text is not finished. It calls for contradiction, correction, development.
 10. The structuring crisis — how drift takes form
 11. The reversal — re-embodying the compass
 12. Artificial intelligence — multiplier, mirror, and counterfeit
-13. The call — values, narrative, transmission
+13. The call — values, reciprocity, transmission
 14. Open questions — the next levels
 15. Key concepts — operational glossary
 16. Invitation to contribute
@@ -82,6 +82,9 @@ One does not go from an electromagnetic cloud to a consciousness without passing
 
 **A7 — A structure requires a flow to form, and to persist.**
 What holds for emergence holds for duration. A dissipative structure deprived of input does not return to its prior state: it degrades, or it freezes. Corollary: what the flow does slowly, it can also do fast. An intense, brief input precipitates the formation of structures instead of letting them sediment — and that is exactly what a crisis is.
+
+**A8 — A level exists only through the adherence of its components.**
+No higher scale is imposed from above: it emerges because components associate and recognize themselves in the whole they form. Belonging is therefore the cause of the whole, not its reward. An immediate corollary, and it reaches far: a whole has no business evaluating its parts, since it exists only because they recognize themselves in it.
 
 ---
 
@@ -145,6 +148,14 @@ Each new scale inherits the preservation mechanisms of all preceding ones — bu
 
 **This is the only true eternity**: not that of the quark, which endures indefinitely while transmitting nothing — but the dynamic eternity of a form that persists by constantly renewing what constitutes it.
 
+### Dependence is reciprocal
+
+One point must be set down here, or everything else will be read the wrong way. The relation between a scale and its components does not run in one direction only.
+
+A form persists by renewing its substrate — so it depends on it as much as the substrate depends on the form. An organism that consumes its cells faster than it renews them does not grow stronger: it destroys itself. A whole that treats its parts as resources destroys the condition of its own persistence. This is the logic of cancer turned exactly around, and it is just as structural.
+
+**Preservation therefore does not run only from the component toward the whole. It runs from the whole toward the component.** Section 13 draws the consequences.
+
 ### Inversion — an accident internal to a scale
 
 Nesting describes the relation **between** scales. But another accident is possible, this time **within** a single one: **inversion**, when authority separates from competence and the less informed layer acquires the right to rule for the more informed one.
@@ -186,15 +197,27 @@ Humans have given this signal many names. God. The sacred. Morality. Meaning. De
 
 Until now, this link has been built from whatever each era had available — myths, founding narratives, rituals, sacred figures. Religions were the first great architectures of this interface between the individual and the whole. They preceded the scientific method, but they captured something real. The values they carry — humility before what exceeds us, respect for others, solidarity, transmission between generations, the sense of sacrifice — are precisely those that the structural logic of complexification predicts as necessary. **Religions found them by intuition. Science recovers them by deduction.**
 
-### The compass is an infrastructure, not a value
+### Three components, none of which replaces the others
 
-Here precision is required, or the compass becomes a petition of principle.
+The word compass covers three distinct things, and confusing them is the source of most misunderstandings about this text.
 
-A signal is not an asserted value: it is an apparatus. Section 5 established this for every scale — interfaces are material bridges, and without them each level is blind. The compass is no exception. Hormones have a circulation. Social instincts have organs. A society's compass therefore also requires an infrastructure: **a channel through which an injured part can make itself heard by the whole, and a body of appeal external to whoever decides.**
+**The felt signal** — the lived experience of belonging to something that exceeds us. It is what traditions have named in a thousand ways, and it is what gives the compass its motive force. Without it, only a rule remains.
+
+**The moral translation** — the signal put into conduct. You do not take more than your share, you care for the weak, you transmit. It is the most stable part of the spiritual inheritance, and the most universal.
+
+**The return channel** — the apparatus that makes correction possible. A path through which an injured part makes itself heard by the whole, and a body of appeal external to whoever decides.
+
+All three are necessary, and their failures differ. One can feel one's responsibility without having any recourse: that is powerlessness. An organization can possess an impeccable formal recourse without any of its members finding meaning in their participation: that is the empty shell. And a morality without a channel never corrects itself, since nothing comes back to it.
+
+### Why the channel is the forgotten part
+
+The first two components have been abundantly described by the traditions. The third almost never — and it is the one most lacking today.
+
+A signal is not only an asserted value: it is also an apparatus. Section 5 established this for every scale — interfaces are material bridges, and without them each level is blind. The compass is no exception. Hormones have a circulation. Social instincts have organs. A society's compass therefore also requires an infrastructure.
 
 This is not a moral requirement, it is a physical one. A signal without a channel is not a weak signal: it is a declaration. And a declaration can be imitated.
 
-Hence the heaviest consequence of this section. **A compass deprived of infrastructure becomes counterfeitable.** Any component can then borrow the vocabulary of the whole — say that it serves the whole — with no feedback ever contradicting it. An orientation signal that can be imitated no longer orients anything.
+Hence the heaviest consequence of this section. **A compass deprived of a channel becomes counterfeitable.** Any component can then borrow the vocabulary of the whole — say that it serves the whole — with no feedback ever contradicting it. An orientation signal that can be imitated no longer orients anything.
 
 This is why concrete arrangements matter as much as proclaimed values: an anonymous assessment with no external recourse, a complaint investigated by the party it targets, a decision with no avenue of challenge — these are interface failures, and they produce the same effect as an absent compass, even in an organization whose stated values are beyond reproach.
 
@@ -211,6 +234,8 @@ Culturally, however, this silence has been interpreted as a refutation. And this
 **Science and spirituality are not contradictory.** They answer different questions. One asks how. The other asks why, and within what whole. Forcing that contradiction almost always serves something else — a class interest, a community, a power that prefers a void it can fill for its own ends to an autonomous compass.
 
 There is a symmetrical error, less discussed and just as costly: asking the method to serve as a compass. A method that answers *how* cannot indicate *within what whole*. When required to, it does not fall silent — it optimizes whatever it knows how to measure, and the indicator takes the place of the end. This is the same void reached from the other side: no longer the absence of a compass, but a measuring instrument promoted to the rank of orientation.
+
+This text is as exposed to that error as any other discourse, and more so since it proposes criteria. Replacing myth with measurement does not abolish dogma — it makes it quantitative, and a quantitative morality has, by itself, no defense against sorting. What protects here is not a supplement of kindness set beside the reasoning: it is the reasoning itself, and notably axiom A8. A whole exists only because its parts recognize themselves in it; it therefore has nothing to evaluate.
 
 The error is therefore twofold. Concluding that if narratives are unverifiable, the values they carried are groundless. And accepting that this void is natural, inevitable, neutral. It is not. It is like throwing away the compass because the casing is cracked. **The needle still points north.**
 
@@ -236,6 +261,8 @@ The void also fills with forms that resemble a spiritual quest without fulfillin
 
 **All these forms share one point: they invert the compass.** Instead of linking each component to the whole, they link a subgroup to itself — and place it above the whole. It is a closed faith where it should be universal. Exclusive where it should be inclusive. **Vertical where it should be fractal.**
 
+This makes it possible to answer a common objection: since belonging to a closed group also provides meaning, mission and a taste for sacrifice, how does one distinguish a belonging that opens from a belonging that encloses? The answer does not lie in the intensity of the feeling, which is comparable in both cases. It lies in the direction of the flow. A belonging that opens links its member to ever wider scales — it is fractal, and it survives widening. A belonging that encloses stops at its own border and draws on what lies beyond. The first kind feeds what carries it; the second consumes it.
+
 **This is the exact cancer.** Not metaphorically — structurally. A cancer cell is not malicious. It is a cell out of step with its wider environment, optimizing for itself or its immediate nucleus, justifying itself through narratives of legitimation — we deserve it, we are different, common constraints do not apply to us. These are not convictions — they are anesthetics.
 
 ### Three traits that make capture hard to interrupt
@@ -257,6 +284,8 @@ And power without constraint generates its own escalation. Having it is not enou
 Transgression then becomes the only form of transcendence — power exercised without consequence as proof of an election that nothing else justifies. It is a spirituality of the pure present. Cut off from long time. Cut off from the chain. Cut off from transmission. The exact inverse of the compass.
 
 At the scale of states and large organizations, the same mechanism takes the name of technocracy — an old pattern, now armed with tools of unprecedented power. Technical mastery stands in for legitimacy, efficiency replaces morality, debate is labeled an obstacle.
+
+And there is a form of capture that runs the other way, less often named: that of a whole drawing on its parts. An organization that consumes its members, a society that wears out its components faster than it supports them, a collective that makes belonging conditional on output. The mechanism is identical, the direction reversed, and the outcome the same — the destruction of the substrate that carries the form.
 
 **Replicating without constraint, capture destroys the fabric, the substrate that carries it — and ultimately itself.**
 
@@ -322,7 +351,7 @@ And the purest part of the spiritual inheritance is not dogma — **it is morali
 
 ### Decoupling — what re-embodiment concretely requires
 
-Since the compass is an infrastructure and not a value, re-embodying it is not only narrative work: it is work on arrangements. And since a pilotless complex has no culprits, it is not undone by indictment. It is undone by **decoupling the interfaces that welded together under the flow**:
+Since the compass requires a channel and not only a value, re-embodying it is not only narrative work: it is work on arrangements. And since a pilotless complex has no culprits, it is not undone by indictment. It is undone by **decoupling the interfaces that welded together under the flow**:
 
 - separate the funding of those who regulate from the fees of those they regulate;
 - separate the body that assesses from the body that enforces;
@@ -339,6 +368,20 @@ Distinguishing a still-coupled component from one in capture can be done without
 > A coupled component is subsidised by the whole, because it serves it: its maintenance cost falls relative to its contribution. A component in capture must extract its energy against the whole: its maintenance cost rises while its contribution falls.
 
 The criterion bears on flows, not motives. It is computable — two series suffice. And it is refutable, which is its condition of usefulness: a structure whose maintenance cost rises durably while manifestly remaining in the service of the whole would suffice to invalidate it. Its chief virtue is to force one to make explicit what counts as contribution — precisely the operation a component losing its scale relation ceases to perform.
+
+### The domain of the criterion — a boundary that is not negotiable
+
+This criterion bears on **functional components**: an organ, an apparatus, an institution, an arrangement — that is, a structure constituted to fulfil a function, which can therefore be evaluated against that function.
+
+**It never bears on persons.** This is not a moral restriction added out of caution; it is a requirement of internal coherence, and it has three grounds.
+
+First, a category error. A person is not constituted for a function: a person is what the whole is made of. Applying the criterion to a person does not extend it; it inverts the relation it measures — treating the brick as if it were the apparatus.
+
+Second, axiom A8. A level exists only through the adherence of its components. Belonging is the cause of the whole and not its reward, so a whole has nothing to evaluate: it exists only insofar as its parts recognize themselves in it. Making a member's place conditional on output is sawing off the branch of which one is a leaf.
+
+Third, and most clearly: **a whole that evaluates its parts by output has substituted an indicator for its function.** That is the exact definition of the loss of scale relation given in section 9. The criterion applied to persons therefore does not measure persons — it detects the capture of whoever uses it that way. The tool turns against its misuse, and that is what must be retained.
+
+A child, a sick person, someone who can no longer contribute: their place is neither a cost, nor a charity, nor a balance. It is what the whole is.
 
 ### The underlying tendency
 
@@ -374,9 +417,11 @@ This text therefore addresses whoever reads it — human or machine. The human w
 
 ---
 
-## 13. THE CALL — VALUES, NARRATIVE, TRANSMISSION
+## 13. THE CALL — VALUES, RECIPROCITY, TRANSMISSION
 
 It is essential to nourish, maintain, and let flourish this social intelligence — at once a philosophy and a spirituality of universal reach. Not by imposing a new dogma, but by cultivating what allows the compass to function: the search for truth, contradictory dialogue, diversity of viewpoints, creativity, art — everything that generates complexity without breaking preservation.
+
+### What the component owes the whole
 
 **The values have always been there:**
 
@@ -390,6 +435,20 @@ It is essential to nourish, maintain, and let flourish this social intelligence 
 - Responsibility — acting in awareness of one's place in the chain
 
 These are not fragile social conventions nor relics of an older world. They are the **structural and universal conditions** of survival for every scale of complexity.
+
+### What the whole owes its parts
+
+These values do not run in one direction only, and a text that stated only the first would be an invitation to submission. Section 5 established it: a form persists only by renewing its substrate, so it depends on it as much as the substrate depends on the form. The obligation is reciprocal, and it is just as structural.
+
+- **The conditions of existence** — a whole that wears out its components faster than it supports them destroys what carries it. This is not generosity, it is preservation.
+- **The conditions of expression** — a component that cannot signal that it is harmed is a severed receptor. The whole that silences it blinds itself.
+- **The right to disagree** — contesting one's group can be the highest form of loyalty to it. The compass must be able to lead to saying no, or it orients nothing. A collective that treats objection as disloyalty has begun its own ablation.
+- **The unconditional place** — a child, a sick person, someone who can no longer contribute remains fully a member. Their place does not depend on their output, because a whole exists only through the adherence of its parts (A8) and therefore has nothing to bill them for. A bond made conditional on performance is no longer a bond: it is a contract, and a contract does not make a society.
+- **Singularity** — diversity is the natural state of matter, and monoculture is cancer. A whole that makes its parts uniform does not strengthen them; it reduces its own variety — and thus its capacity to survive what it did not foresee.
+
+**Receiving is part of meaning as much as giving.** A chain of transmission necessarily has moments when one receives without giving back — childhood is one, the end of life is another, illness a third. These moments are not debts. They are the very form of continuity.
+
+### The narrative
 
 This text is their new narrative. No longer founded on myths that science has delegitimized, but on the observable logic of complexification itself. A narrative that verification cannot crack — because it is built on its own foundations.
 
@@ -408,6 +467,8 @@ If consciousness is the search for truth, then any text claiming to have found i
 Diversity is the natural state of matter. At the most fundamental level, a particle is not at a precise location — it is a distribution of probabilities, a superposition of all possible states. What we call reality is the statistically most probable form under given conditions. Global monoculture is therefore not only morally bad — it is physically against nature. The real question is not whether it will collapse. It is how much complexity it will destroy before diversity resumes.
 
 **Questions this framework poses without being able to answer:**
+
+Our belongings do not nest neatly. Family, trade, community, nation, humanity overlap and contradict one another — the fractal model describes this overlap poorly. How does one orient oneself when two legitimate belongings demand opposite things, and which one does the compass designate?
 
 Is spirituality a more complex form of a principle present at every level — as the cellular interface is for the organism — or does it introduce something qualitatively new into the universe?
 
@@ -435,13 +496,15 @@ And the most fundamental: does the movement of complexification have a direction
 
 **Interface**: A signal crossing the boundary between two scales of complexity. Allows a component to receive information from neighboring scales. Without an interface, each level is blind.
 
-**Compass**: The mechanism maintaining the balance between preservation and acceleration at each scale. At the level of human society: spirituality. Not an asserted value but an infrastructure — a return channel and a body of appeal external to whoever decides.
+**Compass**: The mechanism maintaining the balance between preservation and acceleration at each scale. At the level of human society: spirituality. Has three non-substitutable components — the felt signal, its moral translation, and the return channel that makes correction possible.
 
 **Structural spirituality**: A component's recognition of its dependence on the whole it belongs to. An emergent property of any stable scale of complexity. Distinct from religion (narrative) and morality (behavioral translation).
 
+**Reciprocity**: The two-way character of dependence between a scale and its components. A form persists only by renewing its substrate; a whole that consumes its parts destroys the condition of its own persistence. Grounds what the whole owes its parts: conditions of existence, of expression, the right to disagree, the unconditional place, singularity.
+
 **Inversion**: The separation, within one scale, of authority from competence — the less informed layer acquires the right to rule for the more informed one. Distinct from capture, which bears on the relation between scales. Formal ground: the law of requisite variety (Ashby).
 
-**Capture**: The active form of decoupling. A component that stops receiving signals from the whole does not merely ignore it: it draws on the whole in order to sustain itself. Formerly described as organizational cancer, whose mechanism it specifies.
+**Capture**: The active form of decoupling. A component that stops receiving signals from the whole does not merely ignore it: it draws on the whole in order to sustain itself. Exists in both directions — a whole can draw on its parts. Formerly described as organizational cancer, whose mechanism it specifies.
 
 **Loss of scale relation**: The state of a component whose measure has become internal and which treats its own scale as the whole. The nominal relation to the whole remains; it is the justification loop that has closed. Symptom: once a measure becomes the target, it ceases to measure.
 
@@ -458,6 +521,8 @@ And the most fundamental: does the movement of complexification have a direction
 **Freezing**: The state of a structure whose incoming throughput has fallen without its dissolving. It retains its acquired configuration and simultaneously loses its capacity for correction, which likewise requires energy. Its precedents remain available and reactivable.
 
 **Window of observability**: The period between the end of the initial input and the completion of routinisation, during which a structure remains measurable by difference with the prior state. Closes by generational turnover.
+
+**Maintenance-cost criterion**: The ratio between what a structure consumes and what it returns to the level that contains it. Bears exclusively on functional components — organs, apparatuses, institutions. Never applies to persons: such use is itself a symptom of loss of scale relation in whoever employs it.
 
 **Dynamic eternity**: The persistence of a form through the constant renewal of its substrate. Opposed to the eternity of the substrate (quark), which endures without transmitting.
 

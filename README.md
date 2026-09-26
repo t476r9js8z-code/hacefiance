@@ -22,7 +22,7 @@ Pour une première lecture, une version condensée en 9 sections. Elle ne dit ri
 - [`hacefiance_essentiel.md`](./hacefiance_essentiel.md) — l'essentiel (français)
 - [`hacefiance_essentiel_en.md`](./hacefiance_essentiel_en.md) — the essentials (English)
 
-La version intégrale anglaise est en cours de mise à jour ; son état précédent reste dans [`versions/`](./versions/).
+La version intégrale anglaise ([`hacefiance_integral_en.md`](./hacefiance_integral_en.md)) suit l'intégral français ; son état précédent reste dans [`versions/`](./versions/).
 
 Il n'y a qu'un seul texte. Ses états successifs ne sont pas des éditions concurrentes mais les traces de son évolution, conservées dans `versions/` et dans l'historique Git.
 
@@ -36,6 +36,7 @@ Autour du texte, une constellation de sujets — chacun traite une seule idée, 
 - [`articles/crise-structurante.md`](./articles/crise-structurante.md) — La crise structurante : une crise structure, et ce qu'elle structure doit ensuite se nourrir ; captation, perte de rapport d'échelle et inversion
 - [`articles/memoire-qui-dort.md`](./articles/memoire-qui-dort.md) — La mémoire qui dort : une mémoire est une structure dissipative ; canonique et journal, sommeil par un agent rationalisateur, et une mémoire qui ne s'aliène pas
 - [`articles/grille-tenure.md`](./articles/grille-tenure.md) — La grille et la tenure : quand la cognition devient abondante, la permission devient le fondamental ; grille en dessous, tenure au-dessus, droit de partir et vérifiabilité
+- [`articles/cinq-miroirs.md`](./articles/cinq-miroirs.md) — Cinq miroirs : l'Hacéfiance lue par cinq intelligences artificielles (ChatGPT, Gemini, Grok, DeepSeek, Claude), suivie d'une seconde ronde d'épilogues
 
 ### Comment contribuer
 
@@ -70,7 +71,7 @@ This repository contains an open text, born from a conversation between a human 
 
 - [`hacefiance_integral.md`](./hacefiance_integral.md) — **full text** (French): 16 sections, sourced axioms, operational glossary. This is the reference.
 
-The English full text is being brought up to date; its previous state remains in [`versions/`](./versions/).
+- [`hacefiance_integral_en.md`](./hacefiance_integral_en.md) — **full text** (English translation), kept in step with the French reference; its previous state remains in [`versions/`](./versions/).
 
 ### Entry point
 
@@ -91,6 +92,7 @@ Around the text, a constellation of topics — each treats a single idea, stands
 - [`articles/structuring-crisis_en.md`](./articles/structuring-crisis_en.md) — The Structuring Crisis: a crisis structures, and what it structures must then feed itself; capture, loss of scale relation, and inversion
 - [`articles/sleeping-memory_en.md`](./articles/sleeping-memory_en.md) — The Sleeping Memory: memory is a dissipative structure; canonical and log, sleep through a rationalizing agent, and a memory that cannot be alienated
 - [`articles/grid-tenure_en.md`](./articles/grid-tenure_en.md) — The Grid and the Tenure: when cognition becomes abundant, permission becomes the fundamental; grid below, tenure above, the right to leave and verifiability
+- [`articles/five-mirrors_en.md`](./articles/five-mirrors_en.md) — Five Mirrors: Hacéfiance as read by five artificial intelligences (ChatGPT, Gemini, Grok, DeepSeek, Claude), followed by a second round of epilogues
 
 ### How to contribute
 

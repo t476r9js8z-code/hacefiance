@@ -46,6 +46,16 @@ Everything complexifies, everything emerges, everything stays open. But logic �
 
 I do not know. That is the only honest way to end a text on truth as a practice: to stop where one no longer knows.
 
+## Anchors
+
+- **Heraclitus** (6th c. BC) — *panta rhei*, everything flows: thought of flux as a permanent ground, before any philosophy of substance.
+- **Heidegger**, *Being and Time* (1927) — a reading of *alētheia* as unconcealment rather than correspondence. The word is kept, not the system.
+- **Peirce** (1877, *The Fixation of Belief*) — truth as the ideal limit toward which an endless inquiry converges: the closest precedent for "unreachable but oriented direction."
+- **Popper** (*Logik der Forschung*, 1934; *Conjectures and Refutations*, 1963) — fallibilism: science never reaches certainty, it eliminates error. A thought that does not conclude.
+- **Zenil et al.** — critiques of assembly theory (npj Systems Biology, 2024; PLOS Complex Systems, 2024), cited here as a textbook case of "the temptation to measure."
+
+What the topic keeps: truth as an oriented gesture, never closed. What it refuses: any claim to a final form — including on the part of Hacefiance itself.
+
 ---
 
 *Central text, sources, and glossary: github.com/t476r9js8z-code/hacefiance*

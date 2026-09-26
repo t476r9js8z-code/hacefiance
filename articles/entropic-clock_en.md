@@ -40,6 +40,16 @@ Honesty is part of the framework, so let us say it plainly. This experiment conc
 
 What can be stated without cheating: the vision of time as an internal relation, ordered by entropy, has just passed its first laboratory test. And it fits into the framework without forcing — because the framework already said that every property emerges at the interface between a part and its whole.
 
+## Anchors
+
+- **Wheeler & DeWitt** (equation, 1967) — the wave function of the entire universe contains no time variable. The starting point of the "problem of time."
+- **Page & Wootters**, *Evolution without evolution* (Phys. Rev. D 27, 2885, 1983) — time emerges in a stationary universe from correlations between a "clock" and the rest. This is the exact mechanism the Birmingham experiment puts to the test.
+- **Connes & Rovelli**, thermal time hypothesis (1994) — the time we experience as an effect of our incomplete statistical description, hence of entropy.
+- **Rovelli**, *The Order of Time* (2017) — an accessible account of all these ideas.
+- **Kwon et al. (Birmingham)**, *Testing the problem of time with cold atoms*, Physical Review Research (2026) — the laboratory test discussed here.
+
+What the topic keeps: the functional sufficiency of an entropic clock. What it does not take: the identification of time with entropy, nor the automatic extension to the whole universe.
+
 ---
 
 *Reference: "Testing the problem of time with cold atoms," Physical Review Research (2026), doi.org/10.1103/1h9j-df4k*

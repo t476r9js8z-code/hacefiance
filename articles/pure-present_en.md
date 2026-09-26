@@ -38,6 +38,16 @@ The modern error consists in saying: science does not find it at the fundamental
 
 You cannot keep time and throw away meaning. It is the same gesture that gives birth to both: a part reading the rest.
 
+## Anchors
+
+- **Wheeler & DeWitt** (1967) — the universe taken as a whole is described without a time variable: the formal starting point of the "pure present."
+- **Page & Wootters**, *Evolution without evolution* (Phys. Rev. D 27, 2885, 1983) — the title says it all: apparent evolution in a globally stationary universe. The mechanical heart of this topic.
+- **Einstein** (letter to the Besso family, 1955) — "the distinction between past, present and future is only a stubbornly persistent illusion": the block universe in one sentence.
+- **McTaggart**, *The Unreality of Time* (1908) — the classic A-series / B-series philosophical debate, background to the question.
+- **Anderson**, *More is Different* (Science, 1972) — emergence as "the real of a given scale": the foundation of the temperature/time argument.
+
+What the topic keeps: emergent ≠ illusory; time and meaning share the same ontological status. What it does not take: the idea that the whole would "live" a present in the psychological sense — the whole lives nothing, precisely.
+
 ---
 
 *Central text, sources, and glossary: github.com/t476r9js8z-code/hacefiance*
