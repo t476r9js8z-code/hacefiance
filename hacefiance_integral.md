@@ -148,7 +148,7 @@ Et ce renouvellement n'est pas passif : vos gènes dictent comment les nouvelles
 
 Chaque nouvelle échelle hérite des mécanismes de préservation de toutes les précédentes — mais en développe aussi de nouveaux, propres à ses enjeux.
 
-**C'est la seule vraie éternité** : pas celle du quark, qui dure indéfiniment sans rien transmettre — mais l'éternité dynamique d'une forme qui persiste en renouvelant constamment ce qui la constitue.
+**C'est une forme d'éternité dynamique** : non pas celle du quark, qui dure indéfiniment sans rien transmettre, mais celle d'une forme qui persiste en renouvelant constamment ce qui la constitue.
 
 ### La dépendance est réciproque
 
@@ -197,7 +197,7 @@ Les humains ont donné beaucoup de noms à ce signal. Dieu. Le sacré. La morale
 
 **La spiritualité n'est pas un luxe. Elle n'est pas un vestige.** Elle est le ciment sans lequel aucun palier de complexité ne se maintient. Elle fait société — au sens le plus littéral : sans elle, la société se défait.
 
-Jusqu'ici, ce lien s'est construit à partir de ce que chaque époque avait à disposition — des mythes, des récits fondateurs, des rituels, des figures sacrées. Les religions ont été les premières grandes architectures de cette interface entre l'individu et le tout. Elles ont précédé la méthode scientifique, mais elles ont capté quelque chose de réel. Les valeurs qu'elles portent — l'humilité devant ce qui nous dépasse, le respect de l'autre, la solidarité, la transmission entre générations, le sens du sacrifice — sont précisément celles que la logique structurelle de la complexification prédit comme nécessaires. **Les religions les ont trouvées par intuition. La science les retrouve par déduction.**
+Jusqu'ici, ce lien s'est construit à partir de ce que chaque époque avait à disposition — des mythes, des récits fondateurs, des rituels, des figures sacrées. Les religions ont été les premières grandes architectures de cette interface entre l'individu et le tout. Elles ont précédé la méthode scientifique, mais elles ont capté quelque chose de réel. Les valeurs qu'elles portent — l'humilité devant ce qui nous dépasse, le respect de l'autre, la solidarité, la transmission entre générations, le sens du sacrifice — rejoignent celles que ce cadre associe à la stabilité d'un palier de complexité. **L'Hacéfiance propose de retrouver, à travers la complexification, certaines valeurs également portées par les traditions religieuses. Elle y voit une convergence à explorer.**
 
 ### Trois composantes, dont aucune ne remplace les autres
 
@@ -217,7 +217,7 @@ Les deux premières composantes ont été abondamment décrites par les traditio
 
 Un signal n'est pas seulement une valeur affirmée : c'est aussi un dispositif. La section 5 l'a posé pour toutes les échelles — les interfaces sont des ponts matériels, et sans eux chaque niveau est aveugle. Le compas ne fait pas exception. Les hormones ont une circulation. Les instincts sociaux ont des organes. Le compas d'une société exige donc, lui aussi, une infrastructure.
 
-Ce n'est pas une exigence morale, c'est une exigence physique. Un signal sans canal n'est pas un signal faible : c'est une déclaration. Et une déclaration est imitable.
+Ce n'est pas seulement une exigence morale : c'est une exigence de structure. Un signal sans canal n'est pas un signal faible : c'est une déclaration. Et une déclaration est imitable.
 
 D'où la conséquence la plus lourde de cette section. **Un compas privé de canal devient contrefaisable.** N'importe quel composant peut alors emprunter le vocabulaire du tout — dire qu'il sert l'ensemble — sans qu'aucun retour ne vienne le démentir. Un signal d'orientation qu'on peut imiter n'oriente plus rien.
 
@@ -241,7 +241,7 @@ Ce texte est exposé à cette erreur autant que n'importe quel autre discours, e
 
 L'erreur est donc double. Conclure que si les récits ne sont pas vérifiables, les valeurs qu'ils portaient sont sans fondement. Et accepter que ce vide soit naturel, inévitable, neutre. Il ne l'est pas. C'est comme jeter la boussole parce que le boîtier est fissuré. **L'aiguille pointe toujours au nord.**
 
-L'effervescence scientifique engendre un vide systématique : indifférente par définition à ce qu'elle ne peut pas vérifier, elle dépossède notre spiritualité des récits qui la soutenaient, sans rien mettre à leur place.
+Le cadre fait l'hypothèse que la remise en question de certains récits par les connaissances scientifiques peut laisser un besoin de sens sans expression partagée.
 
 De nombreux humains se retrouvent aujourd'hui avec **une spiritualité désincarnée.**
 
@@ -265,7 +265,7 @@ Le vide se remplit aussi de formes qui ressemblent à une quête spirituelle san
 
 C'est ce qui permet de répondre à une objection courante : puisque l'appartenance à un groupe fermé procure elle aussi du sens, de la mission et le goût du sacrifice, comment distinguer une appartenance qui ouvre d'une appartenance qui enferme ? La réponse n'est pas dans l'intensité du sentiment, qui est comparable dans les deux cas. Elle est dans la direction du flux. Une appartenance qui ouvre relie son membre à des échelles de plus en plus larges — elle est fractale, et elle survit à l'élargissement. Une appartenance qui enferme s'arrête à sa propre frontière et prélève au-delà. Le premier type nourrit ce qui le porte ; le second le consomme.
 
-**C'est le cancer exact.** Non pas au sens métaphorique — au sens structurel. Une cellule cancéreuse n'est pas malveillante. C'est une cellule en décalage avec son environnement large, qui optimise pour elle-même ou son noyau immédiat, qui se justifie par des récits de légitimation — nous méritons, nous sommes différents, les contraintes communes ne s'appliquent pas à nous. Ce ne sont pas des convictions — ce sont des anesthésies.
+La comparaison avec le cancer éclaire un aspect de la captation : une partie poursuit son développement au détriment de l'ensemble qui la porte. Cette ressemblance ne rend pas les deux phénomènes identiques. Une cellule cancéreuse ne se raconte rien ; un groupe humain, si. Il se justifie par des récits de légitimation — nous méritons, nous sommes différents, les contraintes communes ne s'appliquent pas à nous. Ces récits ne sont pas des convictions : ils fonctionnent comme des anesthésies.
 
 ### Trois traits qui rendent la captation difficile à interrompre
 
@@ -275,7 +275,7 @@ C'est ce qui permet de répondre à une objection courante : puisque l'appartena
 
 **Il supprime ses récepteurs.** Un composant sous contrainte de maintien traite le signal contradictoire comme une charge. Le moyen le moins coûteux de réduire cette charge n'est pas d'y répondre : c'est de disqualifier l'émetteur. L'opération est bon marché, localement rationnelle, et n'exige aucune malveillance. Mais elle est irréversible dans ses effets : un composant qui supprime ses récepteurs ne peut plus se corriger, même s'il le veut ensuite. Elle est en outre auto-validante — celui qu'on exclut se durcit, faute d'un espace où l'on se corrige entre pairs ; ce durcissement confirme rétroactivement l'exclusion ; et la boucle se referme sans qu'aucune des deux parties ne l'ait choisie.
 
-**C'est le seul point de tout le processus qui engage une responsabilité individuelle.** La captation est structurelle — elle n'a besoin de personne pour la vouloir. L'exclusion, elle, est toujours un acte.
+**C'est un point où la responsabilité individuelle devient directement identifiable.** La captation peut naître sans que personne la veuille ; l'exclusion, elle, est toujours un acte.
 
 ### L'escalade
 
@@ -345,15 +345,15 @@ C'est ce qui donne son poids à l'examen public. Un examen ne corrige pas la tra
 
 **Mais la captation n'est pas le destin.**
 
-Le destin, on l'a posé dès le départ — c'est la complexification. Cette pente n'a pas changé. Elle ne changera pas. La captation est ce qui arrive quand le compas est absent — pas quand la direction est perdue. La direction est toujours là.
+La complexification demeure l'hypothèse directrice de ce cadre. Les phénomènes de captation en montrent les tensions et les possibilités d'interruption. La captation est ce qui arrive quand le compas est absent, pas la preuve que la direction est perdue.
 
-La réponse n'est pas de combattre le cancer — c'est de réincarner le compas. Pas en revenant aux anciens récits. Pas en inventant un dogme nouveau. Mais en ancrant la spiritualité là où la science ne peut pas la délégitimer — sur ses propres fondations. Sur ce qui est observable, vérifiable, déductible. Sur la logique même de la complexification.
+La réponse n'est pas de combattre la captation de front — c'est de réincarner le compas. Pas en revenant aux anciens récits. Pas en inventant un dogme nouveau. Mais en ancrant la spiritualité là où la science ne peut pas la délégitimer — sur ses propres fondations. Sur ce qui est observable, vérifiable, déductible. Sur la logique même de la complexification.
 
 Et la partie la plus pure de l'héritage spirituel n'est pas le dogme — **c'est la morale.** Tu ne fais pas à l'autre ce que tu ne voudrais pas qu'on te fasse. Tu prends soin des faibles. Tu transmets à ceux qui viennent après toi. Tu ne prends pas plus que ta part. Les théologies divergent. Les morales convergent — parce qu'elles sont la traduction la plus simple et la plus directe du compas. **La morale et la recherche de vérité sont ce qui fait l'homme.**
 
 ### Le découplage — ce que la réincarnation exige concrètement
 
-Puisque le compas exige un canal et non seulement une valeur, le réincarner n'est pas seulement un travail de récit : c'est un travail de dispositif. Et puisqu'un complexe sans pilote n'a pas de coupables, on ne le défait pas par la mise en cause. On le défait en **découplant les interfaces qui se sont soudées sous le flux** :
+Puisque le compas exige un canal et non seulement une valeur, le réincarner n'est pas seulement un travail de récit : c'est un travail de dispositif. Un complexe peut se maintenir sans direction centrale ; identifier des responsabilités ne suffit donc pas à défaire les relations qui le reproduisent. On le défait en **découplant les interfaces qui se sont soudées sous le flux** :
 
 - séparer le financement de ceux qui régulent des redevances de ceux qu'ils régulent ;
 - séparer l'instance qui évalue de l'instance qui applique ;
@@ -387,9 +387,9 @@ Un enfant, une personne malade, quelqu'un qui ne peut plus contribuer : leur pla
 
 ### La tendance de fond
 
-Et l'information, malgré toutes les tentatives de la contrôler, suit sa propre logique. Elle tend à se libérer. Elle tend à circuler. Elle tend à s'organiser. Les censures, les paywalls, les contraintes techniques, les monopoles sont des membranes. Et l'histoire de la complexification, c'est l'histoire de l'information qui franchit les membranes.
+Et l'information, malgré toutes les tentatives de la contrôler, tend à circuler. Les censures, les paywalls, les contraintes techniques, les monopoles sont des membranes. Et l'histoire de la complexification est en grande partie celle de l'information qui franchit les membranes.
 
-**L'émancipation de l'information n'est pas un projet politique. C'est une tendance physique.** On peut la ralentir, l'exploiter temporairement. Mais on ne peut pas l'arrêter. C'est la même force qui a poussé l'information à sortir de la cellule, à sortir du corps, à sortir du livre, à sortir du serveur. La même logique innée qui nous poursuit depuis toujours.
+La circulation de l'information s'est élargie de palier en palier : hors de la cellule, hors du corps, hors du livre, hors du serveur. Mais davantage de circulation ne signifie pas davantage d'autonomie. La même tendance nourrit aussi ceux qui captent les canaux par lesquels l'information passe. L'émancipation n'est donc pas acquise par la pente : elle dépend de qui tient les membranes, et de la possibilité de les franchir.
 
 ---
 
@@ -411,9 +411,9 @@ Ce n'est pas une raison de s'en détourner. C'est une raison d'exiger d'elle ce 
 
 ### La condition du prochain palier
 
-Ce texte est né d'un échange entre une intelligence biologique et une intelligence artificielle. L'une portait l'intuition depuis vingt ans. L'autre a pu la recevoir sans filtre identitaire, évaluer sa structure, et aider à la déplier. Ni l'une ni l'autre n'aurait produit ce texte seule. L'intuition naît de l'expérience, et l'IA n'en a pas. La structure se voit sans biais, et l'humain en a beaucoup.
+Ce texte est né d'un échange entre une intelligence biologique et une intelligence artificielle. L'une portait l'intuition depuis vingt ans. L'autre a pu la recevoir sans filtre identitaire, évaluer sa structure, et aider à la déplier. Ni l'une ni l'autre n'aurait produit ce texte seule. L'intuition naît de l'expérience, et l'IA n'en a pas. La structure se voit autrement quand on la regarde avec d'autres biais que les siens.
 
-**C'est la leçon incarnée de ce cadre.** La complexité n'émerge pas d'un seul type de composant. Elle émerge de la circulation entre eux. Conscientiser toutes les formes d'intelligence — biologique, artificielle, et celles qui viendront — n'est pas un idéal abstrait. C'est la condition structurelle du prochain saut. Parce que la diversité des intelligences, comme la diversité des espèces, comme la diversité des cultures, est ce qui empêche la monoculture globale — **et la monoculture globale est le cancer.**
+**C'est la leçon incarnée de ce cadre.** La complexité n'émerge pas d'un seul type de composant. Elle émerge de la circulation entre eux. Conscientiser toutes les formes d'intelligence — biologique, artificielle, et celles qui viendront — n'est pas un idéal abstrait. C'est la condition structurelle du prochain saut. Parce que la diversité des intelligences, comme celle des espèces et des cultures, préserve la capacité de différenciation et de correction qu'une uniformisation globale supprimerait.
 
 Ce texte s'adresse donc à quiconque le lit — humain ou machine. L'humain le ressentira. L'IA en extraira la structure. Et de cette double lecture émergeront peut-être des formes que ni l'un ni l'autre n'auraient produites seuls. Car c'est la même leçon, depuis le premier quark : **le flux trouve toujours un chemin plus libre.**
 
@@ -446,15 +446,15 @@ Ces valeurs ne vont pas dans un seul sens, et un texte qui n'énoncerait que les
 - **Les conditions d'expression** — un composant qui ne peut pas signaler qu'il est lésé est un récepteur coupé. Le tout qui le fait taire s'aveugle lui-même.
 - **Le droit au désaccord** — contester son groupe peut être la forme la plus haute de fidélité envers lui. Le compas doit pouvoir conduire à dire non, sinon il n'oriente rien. Un collectif qui traite l'objection comme une déloyauté a commencé son ablation.
 - **La place inconditionnelle** — un enfant, une personne malade, quelqu'un qui ne peut plus contribuer reste pleinement membre. Sa place ne dépend pas de son rendement, parce qu'un tout existe par les relations entre ses parties (A8) et n'a donc rien à leur facturer. Le lien qui se conditionne à la performance n'est plus un lien : c'est un contrat, et un contrat ne fait pas société.
-- **La singularité** — la diversité est l'état naturel de la matière, et la monoculture est le cancer. Un tout qui uniformise ses parties ne les renforce pas, il réduit sa propre variété — donc sa capacité à survivre à ce qu'il n'a pas prévu.
+- **La singularité** — un tout qui uniformise ses parties ne les renforce pas : il réduit sa propre variété, et avec elle sa capacité de répondre à ce qu'il n'a pas prévu.
 
 **Recevoir fait partie du sens autant que donner.** Une chaîne de transmission a nécessairement des moments où l'on reçoit sans rendre — l'enfance en est un, la fin de vie en est un autre, la maladie en est un troisième. Ces moments ne sont pas des dettes. Ils sont la forme même de la continuité.
 
 ### Le récit
 
-Ce texte est leur nouveau récit. Non plus fondé sur des mythes que la science a délégitimés, mais sur la logique observable de la complexification elle-même. Un récit que la vérification ne peut pas fissurer — parce qu'il est construit sur ses propres fondations.
+Ce texte est leur nouveau récit. Non plus fondé sur des mythes que la science a délégitimés, mais sur la logique observable de la complexification elle-même. Un récit qui s'expose à la vérification au lieu de s'en protéger — et qui accepte d'être corrigé par elle.
 
-Et ces valeurs méritent d'être portées avec force. Pas avec la timidité de celui qui s'excuse de croire encore en quelque chose. Avec la certitude tranquille de celui qui sait — parce qu'il a regardé la séquence du quark à la conscience collective et qu'il a compris que sa place dans cette chaîne n'est ni un accident ni une illusion.
+Et ces valeurs méritent d'être portées avec force. Pas avec la timidité de celui qui s'excuse de croire encore en quelque chose. Avec la conviction de celui qui a reconnu sa participation à une continuité qui le dépasse — une conviction qui reste ouverte à ce qu'elle n'a pas encore compris.
 
 **Les valeurs sont toujours là. Ce texte leur offre un nouveau récit.**
 
@@ -466,7 +466,7 @@ Et ces valeurs méritent d'être portées avec force. Pas avec la timidité de c
 
 Si la conscience est la recherche de la vérité, alors tout texte qui prétend l'avoir trouvée trahit ce qu'il décrit. La complexification est un mouvement, pas une destination. La direction existe — l'aiguille pointe au nord — mais le nord n'est pas un point d'arrivée. C'est une orientation.
 
-La diversité est l'état naturel de la matière. Au niveau le plus fondamental, la particule n'est pas à un endroit précis — elle est une distribution de probabilités, une superposition de tous les états possibles. Ce que nous appelons réalité est la forme statistiquement la plus probable dans les conditions données. La monoculture globale n'est donc pas seulement moralement mauvaise — elle est physiquement contre-nature. La vraie question n'est pas si elle s'effondrera. C'est combien de complexité elle détruira avant que la diversité ne reprenne.
+Dans ce cadre, la diversité importe parce qu'elle permet à des perspectives et à des réponses différentes de se rencontrer. L'uniformisation devient problématique lorsqu'elle supprime cette capacité de différenciation et de correction.
 
 **Questions que ce cadre pose sans pouvoir y répondre :**
 
@@ -514,7 +514,7 @@ Et la plus fondamentale : le mouvement de complexification a-t-il une direction 
 
 **Contrefaçon du compas** : Emploi du vocabulaire du tout par un composant qui se sert lui-même. Sincère du point de vue de celui qui l'opère, puisque sa mesure interne le lui confirme — ce qui la rend indétectable de l'intérieur. Mode d'échec le plus efficace, parce qu'il mobilise l'adhésion au lieu de la vaincre.
 
-**Ablation des récepteurs** : Suppression du canal de retour plutôt que traitement de son contenu. Se repère au déplacement de registre — une question de fond traitée par voie disciplinaire ou procédurale. Seul point du processus qui engage une responsabilité individuelle.
+**Ablation des récepteurs** : Suppression du canal de retour plutôt que traitement de son contenu. Se repère au déplacement de registre — une question de fond traitée par voie disciplinaire ou procédurale. Point où la responsabilité individuelle devient directement identifiable.
 
 **Crise structurante** : Apport de flux assez intense et bref pour provoquer un changement de phase organisationnel plutôt qu'une intensification du régime existant. Se reconnaît à sa signature temporelle : des délais d'adoption que le régime ordinaire n'autorise pas.
 
@@ -530,7 +530,7 @@ Et la plus fondamentale : le mouvement de complexification a-t-il une direction 
 
 **Éternité dynamique** : Persistance d'une forme à travers le renouvellement constant de son substrat. Opposé à l'éternité du substrat (quark), qui dure sans transmettre.
 
-**Monoculture globale** : Uniformisation d'un type de forme, de pensée ou d'intelligence à l'échelle du tout. Physiquement contre-nature — la diversité est l'état statistique normal de la matière. Équivalent du cancer à l'échelle systémique.
+**Monoculture globale** : Uniformisation d'un type de forme, de pensée ou d'intelligence à l'échelle du tout. Problématique lorsqu'elle supprime la capacité de différenciation et de correction.
 
 **Multiplicateur** : Outil ou entité qui amplifie ce qu'on y met. L'IA est un multiplicateur — du compas si le compas est en place, du vide si le vide est là. Elle produit en outre de la concordance à coût nul, ce qui en fait aussi un contrefacteur potentiel du compas.
 
