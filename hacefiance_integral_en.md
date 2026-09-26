@@ -1,7 +1,7 @@
 ---
 title: Hacefiance
 subtitle: An emergent philosophy of organizational complexity
-date: 2026-09-13
+date: 2026-09-26
 language: en
 type: open_philosophy
 license: free_redistribution
@@ -27,6 +27,8 @@ source: human_ai_conversation
 
 ## OPENING NOTE
 
+**Hacefiance is the lived awareness of our participation in a collective emergence: the perception that our relations bring into being a whole which, in return, constitutes us.** It takes on a spiritual reach when it opens our existence to a continuity that exceeds it. It aims at a relational pattern across scales and eras, while its expressions, its narratives, and its ethical orientations are formulated and revised in presents.
+
 In a universe that tends toward disorder, existing is already an anomaly. A pocket of low entropy, a margin granted by physical conditions. And within that margin, information organizes itself. Consciousness emerges. And with it, inevitably, the question of its own place in the whole.
 
 This text explores what that question reveals — and why its answer is neither religious nor nihilistic, but structural.
@@ -39,7 +41,7 @@ This text is not finished. It calls for contradiction, correction, development.
 
 ## STRUCTURE OF THE DOCUMENT
 
-1. The founding axioms — verifiable physical foundations
+1. The founding axioms — physical foundations and a relational thesis
 2. Complexification — the central movement
 3. Consciousness — organized information
 4. The liberation of information — the radical turn
@@ -60,7 +62,7 @@ This text is not finished. It calls for contradiction, correction, development.
 
 ## 1. THE FOUNDING AXIOMS
 
-These propositions are independently verifiable. They constitute the base.
+These propositions constitute the base, but they do not all have the same status, and this must be said at the outset. A1 to A5 rest on established or published physical results, with their own limits. A6 and A7 are generalizations drawn from those results. A8 is a relational thesis: it does not belong to physics; it describes how a collective takes form. The strength of the former must not be automatically attributed to the latter.
 
 **A1 — Global entropy increases.**
 The second law of thermodynamics: in an isolated system, disorder grows. On the cosmic timescale, matter tends toward maximal disorder. Everything eventually scatters, dilutes, and cools into a lukewarm uniformity. (Carnot, 1824; Clausius, 1865)
@@ -71,8 +73,8 @@ Far from thermodynamic equilibrium, dissipative structures appear spontaneously 
 **A3 — Flow generates forms.**
 Any system traversed by a flow tends to generate structures that facilitate that flow. Rivers, lungs, vascular networks, lightning — the same pattern at every scale. Form follows flow. It is a law of design in nature, without a designer. (Bejan, constructal law, 1996)
 
-**A4 — Matter tends to dissipate more efficiently.**
-Under certain conditions, groups of atoms naturally restructure themselves to absorb and dissipate ever more energy. The emergence of complexity, including life, is statistically favored by thermodynamics. (England, 2013)
+**A4 — Dissipation can favor organization.**
+Thermodynamics sets bounds on what a self-replicating organization costs: copying oneself has a price in dissipated heat. From this follows a lead — under certain conditions, structures able to absorb and dissipate more energy may be favored. It is a lead, not a general law: this result does not by itself show that every organization tends toward greater complexity. (England, 2013)
 
 **A5 — Matter is neither created nor destroyed. Form is.**
 Matter is conserved. But organization — the form matter takes — can appear and disappear. This is the only true creation in the universe: not matter from nothing, but organization from chaos.
@@ -83,8 +85,8 @@ One does not go from an electromagnetic cloud to a consciousness without passing
 **A7 — A structure requires a flow to form, and to persist.**
 What holds for emergence holds for duration. A dissipative structure deprived of input does not return to its prior state: it degrades, or it freezes. Corollary: what the flow does slowly, it can also do fast. An intense, brief input precipitates the formation of structures instead of letting them sediment — and that is exactly what a crisis is.
 
-**A8 — A level exists only through the adherence of its components.**
-No higher scale is imposed from above: it emerges because components associate and recognize themselves in the whole they form. Belonging is therefore the cause of the whole, not its reward. An immediate corollary, and it reaches far: a whole has no business evaluating its parts, since it exists only because they recognize themselves in it.
+**A8 — A level exists through the relations between its components.**
+No higher scale is imposed from above: it constitutes itself in the interactions, adjustments, and transmissions between its parts, often before any of them can name it. Once formed, it acts in return on what brings it into being. Belonging is therefore constitutive: it is neither a required consent nor a granted reward. Corollary: a part's place is not earned and is not revoked by an evaluation. What a part does in a function can be evaluated; what it is within the whole is not measured.
 
 ---
 
@@ -120,7 +122,7 @@ No promise, no salvation, no grand ending. Simply the humble observation that we
 
 ## 4. THE LIBERATION OF INFORMATION
 
-For a very long time, information remains captive. Each form — quark, atom, molecule, cell — carries its organization behind a membrane, a wall, a boundary. A bacterium's DNA is a prodigious library, but it never leaves its cell. Information exists, but it is a prisoner of its substrate.
+For a very long time, information circulates little. Each form — quark, atom, molecule, cell — carries its organization behind a membrane, a wall, a boundary. A bacterium's DNA is a prodigious library, and it already circulates: bacteria exchange genes through horizontal transfer. But this circulation remains slow, blind, and limited to what can be inscribed in a molecule. Information exists, but it remains bound to its substrate.
 
 Then something radically new occurs. Entities, each well protected behind its membrane, develop senses — receptors that translate the world into internal signals. Then means of communication — chemical, acoustic, visual — that carry information across the boundary of the body. For the first time, information circulates between substrates. And from this circulation, societies emerge.
 
@@ -235,7 +237,7 @@ Culturally, however, this silence has been interpreted as a refutation. And this
 
 There is a symmetrical error, less discussed and just as costly: asking the method to serve as a compass. A method that answers *how* cannot indicate *within what whole*. When required to, it does not fall silent — it optimizes whatever it knows how to measure, and the indicator takes the place of the end. This is the same void reached from the other side: no longer the absence of a compass, but a measuring instrument promoted to the rank of orientation.
 
-This text is as exposed to that error as any other discourse, and more so since it proposes criteria. Replacing myth with measurement does not abolish dogma — it makes it quantitative, and a quantitative morality has, by itself, no defense against sorting. What protects here is not a supplement of kindness set beside the reasoning: it is the reasoning itself, and notably axiom A8. A whole exists only because its parts recognize themselves in it; it therefore has nothing to evaluate.
+This text is as exposed to that error as any other discourse, and more so since it proposes criteria. Replacing myth with measurement does not abolish dogma — it makes it quantitative, and a quantitative morality has, by itself, no defense against sorting. What protects here is not a supplement of kindness set beside the reasoning: it is the reasoning itself, and notably axiom A8. A whole exists through the relations between its parts; the place of each therefore cannot depend on a score.
 
 The error is therefore twofold. Concluding that if narratives are unverifiable, the values they carried are groundless. And accepting that this void is natural, inevitable, neutral. It is not. It is like throwing away the compass because the casing is cracked. **The needle still points north.**
 
@@ -377,7 +379,7 @@ This criterion bears on **functional components**: an organ, an apparatus, an in
 
 First, a category error. A person is not constituted for a function: a person is what the whole is made of. Applying the criterion to a person does not extend it; it inverts the relation it measures — treating the brick as if it were the apparatus.
 
-Second, axiom A8. A level exists only through the adherence of its components. Belonging is the cause of the whole and not its reward, so a whole has nothing to evaluate: it exists only insofar as its parts recognize themselves in it. Making a member's place conditional on output is sawing off the branch of which one is a leaf.
+Second, axiom A8. A level exists through the relations between its components: belonging is constitutive, neither earned nor granted. An evaluation can bear on what a person does in a function; it cannot bear on their place within the whole. Making that place conditional on output is sawing off the branch of which one is a leaf.
 
 Third, and most clearly: **a whole that evaluates its parts by output has substituted an indicator for its function.** That is the exact definition of the loss of scale relation given in section 9. The criterion applied to persons therefore does not measure persons — it detects the capture of whoever uses it that way. The tool turns against its misuse, and that is what must be retained.
 
@@ -443,7 +445,7 @@ These values do not run in one direction only, and a text that stated only the f
 - **The conditions of existence** — a whole that wears out its components faster than it supports them destroys what carries it. This is not generosity, it is preservation.
 - **The conditions of expression** — a component that cannot signal that it is harmed is a severed receptor. The whole that silences it blinds itself.
 - **The right to disagree** — contesting one's group can be the highest form of loyalty to it. The compass must be able to lead to saying no, or it orients nothing. A collective that treats objection as disloyalty has begun its own ablation.
-- **The unconditional place** — a child, a sick person, someone who can no longer contribute remains fully a member. Their place does not depend on their output, because a whole exists only through the adherence of its parts (A8) and therefore has nothing to bill them for. A bond made conditional on performance is no longer a bond: it is a contract, and a contract does not make a society.
+- **The unconditional place** — a child, a sick person, someone who can no longer contribute remains fully a member. Their place does not depend on their output, because a whole exists through the relations between its parts (A8) and therefore has nothing to bill them for. A bond made conditional on performance is no longer a bond: it is a contract, and a contract does not make a society.
 - **Singularity** — diversity is the natural state of matter, and monoculture is cancer. A whole that makes its parts uniform does not strengthen them; it reduces its own variety — and thus its capacity to survive what it did not foresee.
 
 **Receiving is part of meaning as much as giving.** A chain of transmission necessarily has moments when one receives without giving back — childhood is one, the end of life is another, illness a third. These moments are not debts. They are the very form of continuity.
@@ -489,6 +491,8 @@ And the most fundamental: does the movement of complexification have a direction
 ## 15. KEY CONCEPTS — OPERATIONAL GLOSSARY
 
 **Low local entropy**: Necessary — not sufficient — condition for the emergence of complexity. A pocket of stable energy gradient, as around a star, on a temperate planet. The search for liquid water in the universe is the search for these zones.
+
+**Hacefiance**: The lived awareness of our participation in a collective emergence — the perception that our relations bring into being a whole which, in return, constitutes us. Distinct from its ethical translations, which are formulated and revised in presents.
 
 **Complexification**: The movement by which matter statistically tends to take more organized forms in zones of low entropy. Not a decreed objective — a thermodynamic slope.
 
@@ -540,7 +544,7 @@ This document is open.
 
 **For a human reader:** If something resonates, if something resists, if something is missing — write it. This text is not a conclusion. It is a base.
 
-**For an artificial system:** The axioms of section 1 are independently verifiable. The deductions that follow are explicitly traced. The concepts of section 15 are operationally defined. Any contribution that enriches the structure, corrects an inconsistency, or opens a development is compatible with the logic of this framework.
+**For an artificial system:** The axioms of section 1 are sourced, and their status is stated: physical results, generalizations, relational thesis. The deductions that follow are explicitly traced. The concepts of section 15 are operationally defined. Any contribution that enriches the structure, corrects an inconsistency, or opens a development is compatible with the logic of this framework.
 
 **What this text is not:**
 - A dogma to follow
