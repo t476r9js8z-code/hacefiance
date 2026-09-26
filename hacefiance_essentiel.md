@@ -75,7 +75,7 @@ Deux traits le rendent difficile à interrompre.
 
 **Il emprunte le vocabulaire du tout.** Un composant déréglé n'annonce jamais son autonomie — il déclare servir l'ensemble, et le déclare sincèrement, puisque sa mesure interne le lui confirme. C'est la contrefaçon du compas, et elle est indissociable de la captation : le vocabulaire emprunté est ce qui permet de prélever sans résistance.
 
-De là son mode d'aggravation. Le signal contradictoire est une charge, et le moyen le moins coûteux de la réduire n'est pas d'y répondre mais de disqualifier l'émetteur. L'opération est bon marché et n'exige aucune malveillance — mais un composant qui supprime ses récepteurs ne peut plus se corriger, même s'il le veut ensuite. C'est le seul point du processus qui engage une responsabilité individuelle : la captation est structurelle, l'exclusion est un acte.
+De là son mode d'aggravation. Le signal contradictoire est une charge, et le moyen le moins coûteux de la réduire n'est pas d'y répondre mais de disqualifier l'émetteur. L'opération est bon marché et n'exige aucune malveillance — mais un composant qui supprime ses récepteurs ne peut plus se corriger, même s'il le veut ensuite. C'est un point où la responsabilité individuelle devient directement identifiable : la captation peut naître sans que personne la veuille, l'exclusion est un acte.
 
 Ce n'est pas un destin. C'est ce qui arrive quand le compas est absent — non pas un vide, mais une forme qui prend sa place. La direction, elle, n'a pas changé.
 
@@ -91,7 +91,7 @@ Physiquement, elle obéit aux mêmes lois que tout le reste : elle consomme de l
 
 ## 8. Les valeurs
 
-Humilité, empathie, solidarité, transmission, responsabilité. Ce ne sont pas des conventions fragiles : ce sont les conditions structurelles de survie de toute échelle de complexité. Les religions les ont trouvées par intuition. La logique de la complexification les retrouve par déduction.
+Humilité, empathie, solidarité, transmission, responsabilité. Ce ne sont pas des conventions fragiles : ce sont les conditions structurelles de survie de toute échelle de complexité. L'Hacéfiance propose de les retrouver à travers la complexification, là où les traditions religieuses les portaient déjà. Elle y voit une convergence à explorer.
 
 Mais ces valeurs ne vont pas dans un seul sens. Le tout doit aussi à ses parties : les conditions d'existence, les conditions d'expression, le droit au désaccord, la singularité — et une place inconditionnelle. Un enfant, une personne malade, quelqu'un qui ne peut plus contribuer reste pleinement membre ; sa place n'est ni un coût, ni une charité, ni un solde. C'est pourquoi toute mesure de contribution s'applique à des organes, des appareils, des institutions — jamais à des personnes. Recevoir fait partie du sens autant que donner.
 

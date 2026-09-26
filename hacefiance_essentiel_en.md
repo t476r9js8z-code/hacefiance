@@ -75,7 +75,7 @@ Two traits make it hard to interrupt.
 
 **It borrows the vocabulary of the whole.** A decoupled component never announces its autonomy — it declares that it serves the whole, and declares it sincerely, since its internal measure confirms as much. This is the counterfeit of the compass, and it is inseparable from capture: the borrowed vocabulary is what allows drawing without resistance.
 
-Hence its mode of aggravation. A contradictory signal is a load, and the cheapest way to reduce it is not to answer but to disqualify the sender. The operation is inexpensive and requires no malice — but a component that removes its receptors can no longer correct itself, even should it later wish to. This is the only point in the process that engages individual responsibility: capture is structural, exclusion is an act.
+Hence its mode of aggravation. A contradictory signal is a load, and the cheapest way to reduce it is not to answer but to disqualify the sender. The operation is inexpensive and requires no malice — but a component that removes its receptors can no longer correct itself, even should it later wish to. This is a point where individual responsibility becomes directly identifiable: capture can arise without anyone willing it, exclusion is an act.
 
 This is not destiny. It is what happens when the compass is absent — not a void, but a form that takes its place. The direction itself has not changed.
 
@@ -91,7 +91,7 @@ Physically, it obeys the same laws as everything else: it consumes energy, dissi
 
 ## 8. The Values
 
-Humility, empathy, solidarity, transmission, responsibility. These are not fragile conventions: they are the structural conditions of survival for every scale of complexity. Religions found them by intuition. The logic of complexification recovers them by deduction.
+Humility, empathy, solidarity, transmission, responsibility. These are not fragile conventions: they are the structural conditions of survival for every scale of complexity. Hacefiance proposes to rediscover them through complexification, where religious traditions already carried them. It sees there a convergence worth exploring.
 
 But these values do not run in one direction only. The whole also owes its parts: the conditions of existence, the conditions of expression, the right to disagree, singularity — and an unconditional place. A child, a sick person, someone who can no longer contribute remains fully a member; their place is neither a cost, nor a charity, nor a balance. This is why any measure of contribution applies to organs, apparatuses, institutions — never to persons. Receiving is part of meaning as much as giving.
 
