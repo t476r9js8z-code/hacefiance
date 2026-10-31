@@ -203,7 +203,7 @@ Until now, this link has been built from whatever each era had available — myt
 
 The word compass covers three distinct things, and confusing them is the source of most misunderstandings about this text.
 
-**The felt signal** — the lived experience of belonging to something that exceeds us. It is what traditions have named in a thousand ways, and it is what gives the compass its motive force. Without it, only a rule remains.
+**The felt signal** — The compass emerges from the coupling with the whole. It is felt — undergone from within — at every scale. And in humans it is revealed, and that is where it becomes spirituality: the lived experience of belonging to something that exceeds us. It is what traditions have named in a thousand ways, and it is what gives the compass its motive force. Without it, only a rule remains.
 
 **The moral translation** — the signal put into conduct. You do not take more than your share, you care for the weak, you transmit. It is the most stable part of the spiritual inheritance, and the most universal.
 
