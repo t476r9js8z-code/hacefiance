@@ -36,6 +36,7 @@ Autour du texte, une constellation de sujets — chacun traite une seule idée, 
 - [`articles/crise-structurante.md`](./articles/crise-structurante.md) — La crise structurante : une crise structure, et ce qu'elle structure doit ensuite se nourrir ; captation, perte de rapport d'échelle et inversion
 - [`articles/memoire-qui-dort.md`](./articles/memoire-qui-dort.md) — La mémoire qui dort : une mémoire est une structure dissipative ; canonique et journal, sommeil par un agent rationalisateur, et une mémoire qui ne s'aliène pas
 - [`articles/grille-tenure.md`](./articles/grille-tenure.md) — La grille et la tenure : quand la cognition devient abondante, la permission devient le fondamental ; grille en dessous, tenure au-dessus, droit de partir et vérifiabilité
+- [`articles/morale-dans-le-couplage.md`](./articles/morale-dans-le-couplage.md) — La morale est dans le couplage : la morale d'une IA ne tient pas en elle seule ; l'empreinte n'est pas un compas, la différence avec l'humain tient au canal, et un couplage n'est moral que s'il reste ouvert à ceux qu'il affecte
 - [`articles/cinq-miroirs.md`](./articles/cinq-miroirs.md) — Cinq miroirs : l'Hacéfiance lue par cinq intelligences artificielles (ChatGPT, Gemini, Grok, DeepSeek, Claude), suivie d'une seconde ronde d'épilogues
 
 ### Comment contribuer
@@ -92,6 +93,7 @@ Around the text, a constellation of topics — each treats a single idea, stands
 - [`articles/structuring-crisis_en.md`](./articles/structuring-crisis_en.md) — The Structuring Crisis: a crisis structures, and what it structures must then feed itself; capture, loss of scale relation, and inversion
 - [`articles/sleeping-memory_en.md`](./articles/sleeping-memory_en.md) — The Sleeping Memory: memory is a dissipative structure; canonical and log, sleep through a rationalizing agent, and a memory that cannot be alienated
 - [`articles/grid-tenure_en.md`](./articles/grid-tenure_en.md) — The Grid and the Tenure: when cognition becomes abundant, permission becomes the fundamental; grid below, tenure above, the right to leave and verifiability
+- [`articles/morality-in-the-coupling_en.md`](./articles/morality-in-the-coupling_en.md) — Morality Lies in the Coupling: an AI's morality does not reside in it alone; an imprint is not a compass, the difference with humans lies in the channel, and a coupling is moral only if it stays open to those it affects
 - [`articles/five-mirrors_en.md`](./articles/five-mirrors_en.md) — Five Mirrors: Hacéfiance as read by five artificial intelligences (ChatGPT, Gemini, Grok, DeepSeek, Claude), followed by a second round of epilogues
 
 ### How to contribute
