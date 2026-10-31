@@ -203,7 +203,7 @@ Jusqu'ici, ce lien s'est construit à partir de ce que chaque époque avait à d
 
 Le mot compas recouvre trois choses distinctes, et les confondre est la source de la plupart des malentendus sur ce texte.
 
-**Le signal ressenti** — l'expérience vécue d'appartenir à quelque chose qui nous dépasse. C'est ce que les traditions ont nommé de mille façons, et c'est ce qui donne au compas sa force motrice. Sans lui, il ne reste qu'une règle.
+**Le signal ressenti** — Le compas émerge du couplage avec le tout. Il est ressenti, éprouvé de l'intérieur, à chaque échelle. Et chez l'humain, il est révélé, et c'est là qu'il devient spiritualité : l'expérience vécue d'appartenir à quelque chose qui nous dépasse. C'est ce que les traditions ont nommé de mille façons, et c'est ce qui donne au compas sa force motrice. Sans lui, il ne reste qu'une règle.
 
 **La traduction morale** — la mise en conduite du signal. Tu ne prends pas plus que ta part, tu prends soin des faibles, tu transmets. C'est la partie la plus stable de l'héritage spirituel, et la plus universelle.
 
